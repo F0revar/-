@@ -1,0 +1,11 @@
+{
+  "handle": "thsottiaux",
+  "expectedUserId": "1953337039510003712",
+  "timezone": "Asia/Shanghai",
+  "overlapHours": 72,
+  "maxPages": 8,
+  "retentionDays": 90,
+  "maxPosts": 3000,
+  "pollIntervalHours": 1,
+  "baseUrl": "http://127.0.0.1:8787/"
+}

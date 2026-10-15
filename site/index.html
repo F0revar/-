@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="追踪 Tibo 的公开动态，读懂 ChatGPT 与 Codex 的额度消息。免费、可追溯的中文简报与 RSS。">
+  <meta name="theme-color" content="#101c2d"><title>额度气象站 · Tibo Radar</title>
+  <link rel="alternate" type="application/rss+xml" title="每日中文简报" href="daily.xml">
+  <link rel="alternate" type="application/rss+xml" title="额度事件" href="feed.xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="data/snapshot.js" defer></script><script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">跳到主要内容</a>
+  <header class="topbar wrap">
+    <a class="brand" href="#main" aria-label="额度气象站首页"><span class="brand-mark" aria-hidden="true">◉</span><span>额度气象站<small>TIBO RADAR / 独立观察站</small></span></a>
+    <nav aria-label="主导航"><a class="active" href="#briefing">今日简报</a><a href="#archive">消息档案</a><a href="#costs">运行成本</a></nav>
+    <button class="button subtle" id="rss-button">订阅 RSS <span aria-hidden="true">↗</span></button>
+  </header>
+  <main class="wrap" id="main">
+    <div class="eyebrow-line"><span class="eyebrow">PUBLIC SIGNALS, CLEARER DAYS</span><span id="date-label">北京时间</span></div>
+    <section class="hero-grid" aria-label="公告气象概览">
+      <div class="weather-card" id="weather-card">
+        <div class="radar-rings" aria-hidden="true"></div>
+        <div class="hero-top"><span class="hero-tag"><span class="live-dot"></span> TIBO 公告气象</span><span class="issue-label">@thsottiaux</span></div>
+        <div class="weather-copy"><p class="weather-kicker" id="weather-kicker">正在读取信号</p><h1 id="weather-title">让额度消息<br>清楚一点。</h1><p class="hero-subtitle" id="weather-subtitle">只追踪有来源的公开动态。</p></div>
+        <div class="weather-art" aria-hidden="true"><div class="sun"></div><div class="cloud cloud-back"></div><div class="cloud cloud-front"></div><span class="spark spark-one">✧</span><span class="spark spark-two">+</span></div>
+        <div class="hero-bottom"><span><span class="tiny-label">最近成功检查</span><strong id="last-success">尚未完成</strong></span><span class="hero-note">天气表示公告状态<br>不代表个人剩余额度</span></div>
+      </div>
+      <aside class="side-stack">
+        <div class="signal-card"><div class="card-heading"><span class="status-dot" id="source-dot"></span><span>来源信号</span><span class="mini-label" id="source-state">检查中</span></div><strong id="post-count" class="signal-number">—<small> 条已存档帖子</small></strong><p id="source-message">读取本地快照，不直接访问你的账户。</p><div class="signal-footer"><span id="newest-post">最新原帖 —</span><button class="text-button" id="refresh-button">刷新快照 ↻</button></div></div>
+        <div class="budget-card"><span class="mini-label">轻量运行计划</span><div class="budget-number"><span>¥</span>0<small>/ 月</small></div><p>预计新增服务费 <span class="budget-pill">免费优先</span></p><a href="#costs">查看费用与成立条件 <span aria-hidden="true">→</span></a></div>
+      </aside>
+    </section>
+    <div class="coverage-banner"><span class="coverage-symbol" aria-hidden="true">◎</span><p><strong>公开信息，透明覆盖。</strong> 免费时间线可能漏帖；即使检查成功，也不等于全量。每条消息保留原帖证据。</p><button class="text-button" id="manual-button">补录原帖 ＋</button></div>
+    <section id="briefing" class="section-block">
+      <div class="section-heading"><div><p class="eyebrow">YOUR DAILY READ</p><h2>今日中文简报 <span id="digest-count" class="count-badge">0</span></h2></div><span class="muted small">精选新增动态 · 额度消息优先</span></div>
+      <div class="briefing-grid" id="briefing-list" aria-live="polite"></div>
+    </section>
+    <section id="archive" class="section-block">
+      <div class="section-heading"><div><p class="eyebrow">FOLLOW THE EVIDENCE</p><h2>消息档案</h2></div><button class="button subtle" id="export-button">导出本地补录 ↓</button></div>
+      <div class="archive-toolbar"><div class="filter-list" role="group" aria-label="筛选消息"><button class="filter active" data-filter="all">全部动态</button><button class="filter" data-filter="reset">额度重置</button><button class="filter" data-filter="scheduled">等待落地</button><button class="filter" data-filter="feature">功能与修复</button><button class="filter" data-filter="manual">我的补录</button></div><label class="search-box"><span aria-hidden="true">⌕</span><input type="search" id="search" placeholder="搜索原文、产品或消息…" aria-label="搜索消息档案"></label></div>
+      <div id="archive-list" class="archive-list"></div>
+      <p class="archive-footnote">时间均为北京时间 · “已宣布完成”指公开声明，个人账户是否到账需另行查看 · 复杂消息请阅读原帖</p>
+    </section>
+    <section id="costs" class="section-block costs-section">
+      <div class="section-heading"><div><p class="eyebrow">SMALL FOOTPRINT, CLEAR COSTS</p><h2>让成本，也有晴天。</h2></div><span class="free-label">无付费 API · 无数据库 · 无自购域名</span></div>
+      <div class="costs-grid"><div><div class="cost-total">¥0<span>/ 月预计新增服务费</span></div><p class="muted cost-intro">公开仓库、标准 Linux runner 与平台子域名。先把消息读清楚，再考虑额外服务。</p><p class="small muted" id="cost-verification"></p></div><div id="cost-items" class="cost-items"></div></div>
+      <div class="cost-details"><strong>费用边界</strong><ul id="cost-assumptions"></ul><details><summary>将来需要付费时，怎么算？</summary><div id="optional-costs"></div></details></div>
+    </section>
+  </main>
+  <footer class="wrap footer"><span class="footer-brand">◉ 额度气象站 <small>Built for clearer signals.</small></span><span>独立工具 · 与 OpenAI / X 无隶属关系</span><a href="https://x.com/thsottiaux" target="_blank" rel="noopener noreferrer">Tibo 原账号 ↗</a></footer>
+  <dialog id="rss-dialog" aria-labelledby="rss-title"><form method="dialog"><button class="close-dialog" aria-label="关闭">×</button></form><p class="eyebrow">KEEP A LITTLE SIGNAL</p><h2 id="rss-title">把消息带进阅读器</h2><p class="muted">每日简报适合每天看一眼；额度事件包含预告与完成状态。阅读器可能不会对同一事件的修订再次提醒。</p><div class="rss-option"><strong>每日中文简报</strong><code id="daily-url"></code><button class="button dark" data-copy="daily">复制订阅链接</button><a href="daily.xml" target="_blank">查看 XML ↗</a></div><div class="rss-option"><strong>额度事件</strong><code id="events-url"></code><button class="button subtle" data-copy="events">复制订阅链接</button><a href="feed.xml" target="_blank">查看 XML ↗</a></div><p class="small muted" id="rss-local-note"></p></dialog>
+  <dialog id="manual-dialog" aria-labelledby="manual-title"><form method="dialog"><button class="close-dialog" aria-label="关闭">×</button></form><p class="eyebrow">FILL A MISSING SIGNAL</p><h2 id="manual-title">补录一条原帖</h2><p class="muted">记录只保存在当前浏览器，可导出 JSON。在公共 RSS 中发布，需要通过仓库手动工作流或本机导入命令重新校验。</p><form id="manual-form"><label>原帖链接<input id="manual-url" name="url" type="url" required placeholder="https://x.com/thsottiaux/status/…"></label><label>原帖正文<textarea id="manual-text" name="text" required maxlength="10000" rows="4" placeholder="粘贴原文。这里不会把它当作已确认事实。"></textarea></label><label>发布时间（北京时间）<input id="manual-time" name="time" type="datetime-local" required></label><p class="form-error" id="manual-error" role="alert"></p><button class="button dark" type="submit">保存为本地待核实记录</button></form></dialog>
+  <dialog id="evidence-dialog" aria-labelledby="evidence-title"><form method="dialog"><button class="close-dialog" aria-label="关闭">×</button></form><p class="eyebrow">READ THE ORIGINAL</p><h2 id="evidence-title">事件证据链</h2><div id="evidence-list"></div></dialog>
+  <div id="toast" role="status" class="toast" hidden></div>
+</body></html>

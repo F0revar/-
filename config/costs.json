@@ -1,0 +1,19 @@
+{
+  "verifiedAt": "2026-10-15",
+  "currency": "CNY",
+  "estimatedMonthly": 0,
+  "mode": "公开仓库、标准 Linux runner、GitHub Pages 平台域名",
+  "items": [
+    { "name": "公开帖子采集", "service": "FxEmbed 公开接口", "monthly": 0, "note": "无需密钥；第三方免费源可能延迟、漏帖或中断", "source": "https://docs.fxembed.com/api/twitter/operations/2profilehandlestatuses/" },
+    { "name": "定时采集", "service": "GitHub Actions", "monthly": 0, "note": "公开仓库 + 标准 runner；每小时一次，约 720 次/月", "source": "https://docs.github.com/en/billing/concepts/product-billing/github-actions" },
+    { "name": "网页与 RSS 托管", "service": "GitHub Pages", "monthly": 0, "note": "使用 github.io 平台域名；遵守 Pages 限制", "source": "https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages" },
+    { "name": "域名", "service": "平台子域名", "monthly": 0, "note": "不购买自定义域名" },
+    { "name": "中文额度简报", "service": "本地规则模板", "monthly": 0, "note": "不调用云端模型；复杂消息保留原文、待解读" },
+    { "name": "数据库与常驻服务器", "service": "JSON 静态快照", "monthly": 0, "note": "不创建数据库或租用服务器" }
+  ],
+  "assumptions": ["上述为预计新增服务费，并非已核对的账户账单", "不含已有 Codex 订阅、个人电脑电费和网络费用", "Actions 产物仅保留 1 天，目标每份小于 1 MB；不启用付费存储扩容", "私有仓库会使用账户共享免费分钟，不能直接沿用公开仓库的免费结论"],
+  "optional": [
+    { "name": "X 官方 API", "enabled": false, "unitPriceUsd": 0.005, "unit": "Post Read / 条", "example": "每天 20 条新增帖 × 30 天约 $3/月；不含用户查询、回补或跨日重复", "source": "https://docs.x.com/x-api/getting-started/pricing" },
+    { "name": "云端模型摘要 / 自定义域名 / 邮件服务", "enabled": false, "example": "默认不配置、不产生本项目调用；需要时单独选择服务并核价" }
+  ]
+}

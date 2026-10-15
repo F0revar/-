@@ -1,0 +1,14 @@
+{
+  "name": "quota-weather-station",
+  "version": "0.1.1",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "collect": "node --use-env-proxy scripts/collect.mjs",
+    "import": "node --use-env-proxy scripts/import-post.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.mjs"
+  }
+}

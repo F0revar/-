@@ -1,0 +1,71 @@
+name: Update quota weather
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+    inputs:
+      post_url:
+        description: '可选：补录 Tibo 原帖 HTTPS 链接；留空则采集时间线'
+        required: false
+        type: string
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: quota-weather-publish
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    env:
+      STATE_PATH: .state/state.json
+      POST_URL: ${{ inputs.post_url || '' }}
+      BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Restore checkpoint
+        run: node scripts/ci-state.mjs restore
+      - name: Test changed source
+        if: github.event_name != 'schedule'
+        run: npm test
+      - name: Read free public source
+        id: collect
+        continue-on-error: true
+        run: npm run collect
+      - name: Save checkpoint and health
+        run: node scripts/ci-state.mjs save
+      - name: Build static snapshot
+        run: npm run build
+      - name: Read Pages configuration
+        id: pages
+        continue-on-error: true
+        uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.pages.outcome == 'success'
+        with:
+          path: dist
+          retention-days: 1
+      - name: Publish Pages
+        id: deploy
+        if: steps.pages.outcome == 'success'
+        uses: actions/deploy-pages@v4
+      - name: Explain missing Pages setup
+        if: steps.pages.outcome == 'failure'
+        run: |
+          echo '::error::Enable GitHub Pages in Settings > Pages > Source: GitHub Actions, then rerun this workflow. Collection state has already been saved.'
+          exit 1
+      - name: Mark source error after publishing honest health
+        if: steps.collect.outcome == 'failure'
+        run: |
+          echo '::error::Collection failed. Existing posts were retained; the site displays source health.'
+          exit 1

@@ -1,0 +1,13 @@
+import { cp, mkdir, readFile } from 'node:fs/promises';
+import { resolve } from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { readState, publicSnapshot } from '../src/state.mjs';
+import { publish } from '../src/publish.mjs';
+const root = fileURLToPath(new URL('../', import.meta.url));
+const settings = JSON.parse(await readFile(resolve(root, 'config/settings.json'), 'utf8'));
+const costs = JSON.parse(await readFile(resolve(root, 'config/costs.json'), 'utf8'));
+const state = await readState(resolve(root, process.env.STATE_PATH || '.state/state.json'));
+await publish(publicSnapshot(state, settings, costs), resolve(root, 'site'), process.env.BASE_URL || settings.baseUrl);
+await mkdir(resolve(root, 'dist/data'), { recursive: true });
+for (const path of ['index.html', 'styles.css', 'app.js', 'feed.xml', 'daily.xml', 'data/status.json', 'data/snapshot.js']) await cp(resolve(root, 'site', path), resolve(root, 'dist', path));
+console.log('静态站已生成到 dist/；没有调用外部模型或付费 API。');
