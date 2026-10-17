@@ -2,6 +2,74 @@
   "schemaVersion": 1,
   "posts": [
     {
+      "id": "2111523665817047359",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@ajambrosino @petergyang @amorriscode 🍺👌",
+      "createdAt": "2026-10-17T18:24:06.000Z",
+      "url": "https://x.com/thsottiaux/status/2111523665817047359",
+      "kind": "reply",
+      "replyToId": "2111499356486672551",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "3b3299311a49b927c626c214067106eea10569f0e0048019676f3f28a9eaba3e",
+      "firstSeenAt": "2026-10-17T20:40:58.072Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
+      "editedAt": null
+    },
+    {
+      "id": "2111523462372372942",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@gabrielchua Bit blurry",
+      "createdAt": "2026-10-17T18:23:18.000Z",
+      "url": "https://x.com/thsottiaux/status/2111523462372372942",
+      "kind": "reply",
+      "replyToId": "2109482363210305893",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "0372c19770cfebeb0f3fd4a75a1e7de2f1a0ac61bb6d68d163ea55b690b53838",
+      "firstSeenAt": "2026-10-17T20:40:58.072Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
+      "editedAt": null
+    },
+    {
+      "id": "2111522308666077527",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@jkeatn Let’s pump those numbers up",
+      "createdAt": "2026-10-17T18:18:43.000Z",
+      "url": "https://x.com/thsottiaux/status/2111522308666077527",
+      "kind": "reply",
+      "replyToId": "2111500856554308061",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "3a6837a82a719f02c4860b04cef15da31ecbf4048ddb2946002f4fd5c6a92b6c",
+      "firstSeenAt": "2026-10-17T20:40:58.072Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
+      "editedAt": null
+    },
+    {
+      "id": "2111519953564368960",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@charliermarsh @ajambrosino Checks out, he was half his usual size today",
+      "createdAt": "2026-10-17T18:09:21.000Z",
+      "url": "https://x.com/thsottiaux/status/2111519953564368960",
+      "kind": "reply",
+      "replyToId": "2111503337774268657",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "eba4e44e1ae3aa19054ac348607b670912dee10c898823b99a457355a73f2756",
+      "firstSeenAt": "2026-10-17T20:40:58.072Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
+      "editedAt": null
+    },
+    {
       "id": "2111495569806065883",
       "authorId": "1953337039510003712",
       "handle": "thsottiaux",
@@ -15,7 +83,7 @@
       "source": "fxembed",
       "fingerprint": "c3a78cd0dc7d70ca37373b3d2a8ff0e21c65d374cae82beae75450b3c559fa56",
       "firstSeenAt": "2026-10-17T17:17:40.147Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -32,7 +100,7 @@
       "source": "fxembed",
       "fingerprint": "2354ffcf9fc86f23df9fd0faabd71b76db67183d8647cc81f0711021c2634f9f",
       "firstSeenAt": "2026-10-17T17:17:40.147Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -49,7 +117,7 @@
       "source": "fxembed",
       "fingerprint": "3355cc1ee68601c45ff85a504cca07245e557711d048aa62d3f0c5452cc46be3",
       "firstSeenAt": "2026-10-17T17:17:40.147Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -66,7 +134,7 @@
       "source": "fxembed",
       "fingerprint": "14497647c1cd4b691fa6fd345365a0d26cfb8f56442acc0f56f9fafad1d72281",
       "firstSeenAt": "2026-10-17T17:17:40.147Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -83,7 +151,7 @@
       "source": "fxembed",
       "fingerprint": "a43a28fa2e8e6b855bac3361e1eefbf1a3178b66b0efd512c715d7e49c1e1e4b",
       "firstSeenAt": "2026-10-17T17:17:40.147Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -100,7 +168,7 @@
       "source": "fxembed",
       "fingerprint": "a86868732a293ac780879d1be6a9498b620c081821bead70828b11d408047242",
       "firstSeenAt": "2026-10-17T17:17:40.147Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -117,7 +185,7 @@
       "source": "fxembed",
       "fingerprint": "b72e12821545026bec1e0950164588ac1419e8d773164bd3809a6d47282e94d6",
       "firstSeenAt": "2026-10-17T17:17:40.147Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -134,7 +202,7 @@
       "source": "fxembed",
       "fingerprint": "f277560ec7b857edc0fd74114e697cbee58d372c5a38ada3193c812d601510c3",
       "firstSeenAt": "2026-10-17T10:51:49.465Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -151,7 +219,7 @@
       "source": "fxembed",
       "fingerprint": "8a992f2e7497d022d1fc81b00262820b94da4babb3a4f3aa88b3f1246fb87e3c",
       "firstSeenAt": "2026-10-17T10:51:49.465Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -168,7 +236,7 @@
       "source": "fxembed",
       "fingerprint": "3f840cd6518f860a97fd631d6bd6a1402beb8a4ce733d543c72a0a3e250c4c83",
       "firstSeenAt": "2026-10-17T10:51:49.465Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -185,7 +253,7 @@
       "source": "fxembed",
       "fingerprint": "ed21d33b6820f12a1b1622d7fd49a3575e06203ff2bf0f17abff6c7d02f888bf",
       "firstSeenAt": "2026-10-17T10:51:49.465Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -202,7 +270,7 @@
       "source": "fxembed",
       "fingerprint": "f9bd208812f5388c0c60a5845f3df6210426e7a0fffbacc8f1aacd962a7b33d0",
       "firstSeenAt": "2026-10-17T10:51:49.465Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -219,7 +287,7 @@
       "source": "fxembed",
       "fingerprint": "0e2bf2239bb45744338dd46c53b101e4d4c2bba8b51c0ffe4ad51b5129d8ce3b",
       "firstSeenAt": "2026-10-17T05:38:35.841Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -236,7 +304,7 @@
       "source": "fxembed",
       "fingerprint": "60e38e29eba4f3bd5cb32767d45b2baa267efc522b89572219762a3b20a8a4e9",
       "firstSeenAt": "2026-10-17T00:32:34.721Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -253,7 +321,7 @@
       "source": "fxembed",
       "fingerprint": "2845d61c8c5305fdef096981094ef7e0fd537f662695b31aae732aa5dc03071c",
       "firstSeenAt": "2026-10-17T00:32:34.721Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -270,7 +338,7 @@
       "source": "fxembed",
       "fingerprint": "8dfbc18a35a787b8845e584316030ca1517602eb38d03762948ef13df055c9aa",
       "firstSeenAt": "2026-10-17T00:32:34.721Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -287,7 +355,7 @@
       "source": "fxembed",
       "fingerprint": "4c55b098f3bb7b3444da7af9e642e38a8a866899dee8a7503c479d332f579b7b",
       "firstSeenAt": "2026-10-17T00:32:34.721Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -304,7 +372,7 @@
       "source": "fxembed",
       "fingerprint": "88d6fa982b9395024477c7b2a4703a041cafc854723ce6d25629615e396c7dd1",
       "firstSeenAt": "2026-10-17T00:32:34.721Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -333,7 +401,7 @@
       "source": "fxembed",
       "fingerprint": "b438a1e151804165ebef2463b151883ac15c4dabf0fd2ec0df10d5daf4cd4673",
       "firstSeenAt": "2026-10-17T00:32:34.721Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -362,7 +430,7 @@
       "source": "fxembed",
       "fingerprint": "c7a56b6537f7d58d273ec05d674a909ddadd594f06fe5e9573b0469c3348bf24",
       "firstSeenAt": "2026-10-17T00:32:34.721Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -379,7 +447,7 @@
       "source": "fxembed",
       "fingerprint": "c0809f6cf1989ecf34765c49c19e6545d7e5062a308d8ed142c35a731bb03eb0",
       "firstSeenAt": "2026-10-17T00:32:34.721Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -396,7 +464,7 @@
       "source": "fxembed",
       "fingerprint": "e8d9b3ba2dd905e3606f98bcf0db797dba14e6ef456dcc940f2608c4a7b0e161",
       "firstSeenAt": "2026-10-16T07:16:08.875Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -413,7 +481,7 @@
       "source": "fxembed",
       "fingerprint": "59e36d7429c83fecfb7e5fc48e93c6c40215b84e0bad0143f4bbfd679302e1fa",
       "firstSeenAt": "2026-10-16T07:16:08.875Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -430,7 +498,7 @@
       "source": "fxembed",
       "fingerprint": "75d8e9fef302ede9538784ae6d231bcd6d22973b19db6e944b6dab776f68abb5",
       "firstSeenAt": "2026-10-16T07:16:08.875Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -447,7 +515,7 @@
       "source": "fxembed",
       "fingerprint": "e569a3ed85b3db3a962f7ad3e1e0780c4304cc68b004dfbb427fdea46107f080",
       "firstSeenAt": "2026-10-16T01:26:19.141Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -464,7 +532,7 @@
       "source": "fxembed",
       "fingerprint": "cd87941c89b34aae09f6f7e9cc90bbe4f7fe0b8b5be9b7d933ca5424d45bcc06",
       "firstSeenAt": "2026-10-16T01:26:19.141Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -493,7 +561,7 @@
       "source": "fxembed",
       "fingerprint": "5516e073c31694375e669d65887960b507d578a0b43e1547f05c23d364d55611",
       "firstSeenAt": "2026-10-16T01:26:19.141Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -510,7 +578,7 @@
       "source": "fxembed",
       "fingerprint": "b2726e988ce1d7d88645a2141bfe06e3c6ae291bfac883f42c8c03157fb886e8",
       "firstSeenAt": "2026-10-15T19:13:08.611Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -527,7 +595,7 @@
       "source": "fxembed",
       "fingerprint": "e40c21bcc0cd2abe5078a91fbab9b4f660ce70a4c7d239fda849fef344db9d18",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -556,7 +624,7 @@
       "source": "fxembed",
       "fingerprint": "4ec0364afad0d07c6713e227d75de3348d17b73031343eeef40add79e904ef8c",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -573,7 +641,7 @@
       "source": "fxembed",
       "fingerprint": "c81afa02e6c692cc1cae113970e0583ee1702a742a5cde5cb67bea85edf7eec7",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -590,7 +658,7 @@
       "source": "fxembed",
       "fingerprint": "6fe66c90672aac8790040fafa7e1c2bea26613ed0615f821323b2ba4e0fb81a8",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -607,7 +675,7 @@
       "source": "fxembed",
       "fingerprint": "d10f9de474bffef4e36a5808a2bd0f7c2556f55b5bf331e2d46a54354cd77f82",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -624,7 +692,7 @@
       "source": "fxembed",
       "fingerprint": "059d652e1e186604a46fe50493d8856572684173a784da9a37d07d04ce765d3c",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -641,7 +709,7 @@
       "source": "fxembed",
       "fingerprint": "569a09b1afabae6dd84c7b62404c4e45e5121ee1387b7cb35140209a8adf6688",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -658,7 +726,7 @@
       "source": "fxembed",
       "fingerprint": "a21689bae8351eddd5a355664f8c221bbf9d2f06ee0ec27b46a24e514ce3faf4",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -675,7 +743,7 @@
       "source": "fxembed",
       "fingerprint": "37a28f5b9dad778aed732c0339d6c9c9dd50e8b59de0c9cc11d7f1d65c212984",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -692,7 +760,7 @@
       "source": "fxembed",
       "fingerprint": "e3c7993ef8c94e8928b64f046f42bf50f71d0b734cf5312156acab0cb66e7b1c",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -709,7 +777,7 @@
       "source": "fxembed",
       "fingerprint": "3abf2d2987e08466db82cb765102e1c34607f494b05150fd48a40eebc6ce4103",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -726,7 +794,7 @@
       "source": "fxembed",
       "fingerprint": "579ee9a3fad10bbffe625099f725ae7948c3e2ba2b4900a8f2c6cb77f3337b31",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -743,7 +811,7 @@
       "source": "fxembed",
       "fingerprint": "aa73a48ed4478c0bce06c4120daab47e4990d465d76e5b632eb8e151d36b4d30",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -760,7 +828,7 @@
       "source": "fxembed",
       "fingerprint": "f8b5c2def5bc7aa3a374ce91a42c6c9ee927252ddfe891902aa5dd1b69368392",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -789,7 +857,7 @@
       "source": "fxembed",
       "fingerprint": "bc6d759ba9a06203c289112ed3243372b4c4e072228553173ab119c98c8edaa2",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -806,7 +874,7 @@
       "source": "fxembed",
       "fingerprint": "7cd886e5219dc942e5ab4b907f980d1cd26039437ffd53fba2ba18ff2937dbd2",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -823,7 +891,7 @@
       "source": "fxembed",
       "fingerprint": "e72a34068630b8d537a4a7486048790e93c50f3c8d7f8d9e6813ddde52c57ec8",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -840,7 +908,7 @@
       "source": "fxembed",
       "fingerprint": "5568a66d2806ea95ae4768fe11977c1653122f41082754a92bb7e4609bcabd63",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -857,7 +925,7 @@
       "source": "fxembed",
       "fingerprint": "b42f1a032459e82e1fe24edd1addb3f4438b9fc74acc10911fa61d53410993d3",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -874,7 +942,7 @@
       "source": "fxembed",
       "fingerprint": "af44ee5c917b1fa4e9a22b6e2f7a4e9f7af86b95461f454645957136976a5f37",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -891,7 +959,7 @@
       "source": "fxembed",
       "fingerprint": "675f7a4262f59fc10c5167f20b31b6166638f6ecb0d827edfa362db4b2287d45",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -908,7 +976,7 @@
       "source": "fxembed",
       "fingerprint": "ce574ac00197eef9304fb10990281108f0dc112a59868930a5af37782a221a17",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -925,7 +993,7 @@
       "source": "fxembed",
       "fingerprint": "b55c42812a93cb69e21aa738cef82245b34cb03c27e14cb43a6f5acdd406c954",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -942,7 +1010,7 @@
       "source": "fxembed",
       "fingerprint": "76bf69bb400c8bb7d850d57f7d1f526a4c65057281e62a342889efd4e88e40b7",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -959,7 +1027,7 @@
       "source": "fxembed",
       "fingerprint": "ebe6b0397988cdac08cfebfc1735978416cc76eb63612e446e532cd9567f36ca",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -976,7 +1044,7 @@
       "source": "fxembed",
       "fingerprint": "361b7013fb96609bf42b292ce1f276f2288b1319750ad4478f1b8cc228f03df2",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -993,7 +1061,7 @@
       "source": "fxembed",
       "fingerprint": "ef84f6f107ec62c1919761780e9051ba80011716f99538edafa727f412607b8f",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -1010,7 +1078,7 @@
       "source": "fxembed",
       "fingerprint": "a1490609de07460f2ad536265a02f164ce4ea0d026839f76f387b80dd8109b9c",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -1027,7 +1095,7 @@
       "source": "fxembed",
       "fingerprint": "d1aba370ed5a42d9b5585c50f6f4c627165a934ef808d16526edffc3dc91ff2a",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -1056,7 +1124,7 @@
       "source": "fxembed",
       "fingerprint": "549c1f8ec074c6e64079555efb9ad5d824c9170808a1b15800f3e237d908e0d0",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -1073,7 +1141,7 @@
       "source": "fxembed",
       "fingerprint": "5ca4863cc69782e6ea049c7a40de9fd6cb0351adced948792df5549d8f665226",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T14:14:18.414Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -1090,7 +1158,7 @@
       "source": "fxembed",
       "fingerprint": "09d3c21511a872b560f3cfe2050f0407dbfb9f77320be4781902fbb532e99545",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T14:14:18.414Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -1107,7 +1175,7 @@
       "source": "fxembed",
       "fingerprint": "a15358b365eb97454277afca693180a50f773b919cca94887566fe7d1196bd39",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T17:17:40.147Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -1124,7 +1192,7 @@
       "source": "fxembed",
       "fingerprint": "3fb916017a79875fb6e90fb674a3f6e9edda943c2efdb7028b3cd9ef29b1a85c",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T14:14:18.414Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -1141,7 +1209,7 @@
       "source": "fxembed",
       "fingerprint": "80d526f02c7d8c8158504e74bad90088fc947a57d7b5b79b0e1249d49c9163d9",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T14:14:18.414Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -1158,7 +1226,7 @@
       "source": "fxembed",
       "fingerprint": "1897cbf1d585e3cf8c8cd53332302607f7659584a5336fc16a1f7651949a1ef5",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T14:14:18.414Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -1187,7 +1255,7 @@
       "source": "fxembed",
       "fingerprint": "84d91203d87195a72bd8809364edb0fa0656dc41100498d86e08577cc4044a01",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T14:14:18.414Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -1204,7 +1272,7 @@
       "source": "fxembed",
       "fingerprint": "0469fb0de79de39a1663bb62e9cf3291ef8f6f469802794ad10df88d5fdf39fa",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T05:38:35.841Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -1221,7 +1289,7 @@
       "source": "fxembed",
       "fingerprint": "79b27667b124aa6b2923cad43e258801506dcf8c24121b87bfae726b0b1dc7ce",
       "firstSeenAt": "2026-10-15T11:24:33.826Z",
-      "lastSeenAt": "2026-10-17T05:38:35.841Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -1250,7 +1318,7 @@
       "source": "fxembed",
       "fingerprint": "68e06e9f644ffe7971fb7922e79873068346bb0b8eed3c2528c0ee5ad6a3063f",
       "firstSeenAt": "2026-10-15T11:24:33.826Z",
-      "lastSeenAt": "2026-10-17T05:38:35.841Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -1267,7 +1335,7 @@
       "source": "fxembed",
       "fingerprint": "2a7528f673a3b3cf9742c00b70446d0b549205143931355d3d03acfddbb355da",
       "firstSeenAt": "2026-10-15T11:24:33.826Z",
-      "lastSeenAt": "2026-10-17T05:38:35.841Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -1284,7 +1352,7 @@
       "source": "fxembed",
       "fingerprint": "b52187382a6bfa050eafda8775845986da49c9070b388d42c0c31545061cfc9d",
       "firstSeenAt": "2026-10-15T11:24:33.826Z",
-      "lastSeenAt": "2026-10-17T05:38:35.841Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -1301,7 +1369,7 @@
       "source": "fxembed",
       "fingerprint": "fabc8a45e8f44d4e44255ec73a2b502897a1b77e6f6e065b307c9fb0565adcc7",
       "firstSeenAt": "2026-10-15T11:24:33.826Z",
-      "lastSeenAt": "2026-10-17T05:38:35.841Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -1318,7 +1386,7 @@
       "source": "fxembed",
       "fingerprint": "0983fce58254f8ce22f8a14f85361ec0fc49cea39999d58355b2aeaf5edaf2de",
       "firstSeenAt": "2026-10-15T11:24:33.826Z",
-      "lastSeenAt": "2026-10-16T01:26:19.141Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -1335,7 +1403,7 @@
       "source": "fxembed",
       "fingerprint": "dfec2f286782240fc9b010b74141a64246096af020930aeab2945abbdff1f1ed",
       "firstSeenAt": "2026-10-15T11:24:33.826Z",
-      "lastSeenAt": "2026-10-16T01:26:19.141Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -1352,7 +1420,7 @@
       "source": "fxembed",
       "fingerprint": "51042c866115e62b831897133356af5da1989aecd9b4eca48fdda527519341d6",
       "firstSeenAt": "2026-10-15T11:24:33.826Z",
-      "lastSeenAt": "2026-10-16T01:26:19.141Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -1403,7 +1471,7 @@
       "source": "fxembed",
       "fingerprint": "01d4bd7fae243d6d1ce55785d3171898cf4e0fd058431bc42fc9fe73e4557126",
       "firstSeenAt": "2026-10-15T09:55:40.271Z",
-      "lastSeenAt": "2026-10-17T05:38:35.841Z",
+      "lastSeenAt": "2026-10-17T20:40:58.072Z",
       "editedAt": null
     },
     {
@@ -1608,14 +1676,14 @@
       "editedAt": null
     }
   ],
-  "cursor": "2111495569806065883",
-  "lastAttemptAt": "2026-10-17T17:17:40.147Z",
-  "lastSuccessAt": "2026-10-17T17:17:40.147Z",
+  "cursor": "2111523665817047359",
+  "lastAttemptAt": "2026-10-17T20:40:58.072Z",
+  "lastSuccessAt": "2026-10-17T20:40:58.072Z",
   "status": "ok",
   "error": null,
   "collection": {
-    "pages": 3,
-    "requests": 4,
-    "fetched": 59
+    "pages": 4,
+    "requests": 5,
+    "fetched": 79
   }
 }
