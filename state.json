@@ -1813,10 +1813,10 @@
     }
   ],
   "cursor": "2111918768733753664",
-  "lastAttemptAt": "2026-10-18T20:50:49.619Z",
+  "lastAttemptAt": "2026-10-18T23:18:32.730Z",
   "lastSuccessAt": "2026-10-18T20:50:49.619Z",
-  "status": "ok",
-  "error": null,
+  "status": "error",
+  "error": "上游分页游标重复；保留原检查点",
   "collection": {
     "pages": 3,
     "requests": 4,
