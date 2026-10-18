@@ -1728,10 +1728,10 @@
     }
   ],
   "cursor": "2111687989328011357",
-  "lastAttemptAt": "2026-10-18T11:16:01.088Z",
+  "lastAttemptAt": "2026-10-18T14:40:46.642Z",
   "lastSuccessAt": "2026-10-18T11:16:01.088Z",
-  "status": "ok",
-  "error": null,
+  "status": "error",
+  "error": "免费来源返回 HTTP 404",
   "collection": {
     "pages": 3,
     "requests": 4,
