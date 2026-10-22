@@ -2206,10 +2206,10 @@
     }
   ],
   "cursor": "2113029854417600834",
-  "lastAttemptAt": "2026-10-21T22:24:48.833Z",
+  "lastAttemptAt": "2026-10-22T01:34:36.364Z",
   "lastSuccessAt": "2026-10-21T22:24:48.833Z",
-  "status": "ok",
-  "error": null,
+  "status": "error",
+  "error": "免费来源返回 HTTP 404",
   "collection": {
     "pages": 2,
     "requests": 3,
