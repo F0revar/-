@@ -2,6 +2,74 @@
   "schemaVersion": 1,
   "posts": [
     {
+      "id": "2114086171907428846",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@specialkdelslay Fortunately, this is fake",
+      "createdAt": "2026-10-24T20:06:35.000Z",
+      "url": "https://x.com/thsottiaux/status/2114086171907428846",
+      "kind": "reply",
+      "replyToId": "2114013190065697136",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "4e17082003d3c65d5713784e8f1e82d98dc27af5f47d5ac699ed0b9426d8bc62",
+      "firstSeenAt": "2026-10-24T20:56:41.286Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
+      "editedAt": null
+    },
+    {
+      "id": "2114074885622501706",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "DM if you want to help scale dots to 1B users and have done similar things in the past",
+      "createdAt": "2026-10-24T19:21:45.000Z",
+      "url": "https://x.com/thsottiaux/status/2114074885622501706",
+      "kind": "post",
+      "replyToId": null,
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "fe7d4d4a8923108ecf3dca1056e94f73df0e67fa06fa5c87b12f90ff9422a311",
+      "firstSeenAt": "2026-10-24T20:56:41.286Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
+      "editedAt": null
+    },
+    {
+      "id": "2114074317759938918",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@can @OpenAIDevs No need for a bribe. What’s bothering you",
+      "createdAt": "2026-10-24T19:19:29.000Z",
+      "url": "https://x.com/thsottiaux/status/2114074317759938918",
+      "kind": "reply",
+      "replyToId": "2114030290968457708",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "b1f62c2d71a4d6a888fbaa79b97aaee0654c0e8d625623890bd3ab4217488a27",
+      "firstSeenAt": "2026-10-24T20:56:41.286Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
+      "editedAt": null
+    },
+    {
+      "id": "2114073762895405067",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@TokenGremlin Hi 👋",
+      "createdAt": "2026-10-24T19:17:17.000Z",
+      "url": "https://x.com/thsottiaux/status/2114073762895405067",
+      "kind": "reply",
+      "replyToId": "2114053952840827082",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "6024ef990076872c3bc0eb5bbb0e7d8346ef76671e9545a70d62d190a606ab9c",
+      "firstSeenAt": "2026-10-24T20:56:41.286Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
+      "editedAt": null
+    },
+    {
       "id": "2114037527598576003",
       "authorId": "1953337039510003712",
       "handle": "thsottiaux",
@@ -15,7 +83,7 @@
       "source": "fxembed",
       "fingerprint": "c5c83ddbcfac928f86835cd3a95cdceb577efbc87fba31959073465ba95d5428",
       "firstSeenAt": "2026-10-24T18:12:48.691Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -32,7 +100,7 @@
       "source": "fxembed",
       "fingerprint": "fc670c9d5d4ec8211a628d16c7e1bd80bae5967b4b753857a22146d5680b950f",
       "firstSeenAt": "2026-10-24T18:12:48.691Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -49,7 +117,7 @@
       "source": "fxembed",
       "fingerprint": "d91744c410504e4f28f21ac06e2bb9826e6ab91afcb2e0130ab1a3e01401c0a1",
       "firstSeenAt": "2026-10-24T05:58:24.250Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -66,7 +134,7 @@
       "source": "fxembed",
       "fingerprint": "a7650d0e5446d82fe331168d7148b9ce6a2ba99f7e58ea9f4e89ab6a04681716",
       "firstSeenAt": "2026-10-24T00:49:14.822Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -83,7 +151,7 @@
       "source": "fxembed",
       "fingerprint": "09e7b61d7b1ea79829749207f7699fd672d0e220ac34ea989f012fe62bf08e88",
       "firstSeenAt": "2026-10-24T00:49:14.822Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -100,7 +168,7 @@
       "source": "fxembed",
       "fingerprint": "7d4f620ee1bb736b7173395b7e361131bc66a4a029337662d30a88bdfd17217c",
       "firstSeenAt": "2026-10-24T00:49:14.822Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -117,7 +185,7 @@
       "source": "fxembed",
       "fingerprint": "1aabe39b3ee40c9e4a247f7941d6b8709d1cd1367eb3abe759e7f4ae2f4e63ec",
       "firstSeenAt": "2026-10-23T07:37:37.092Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -134,7 +202,7 @@
       "source": "fxembed",
       "fingerprint": "b237a852d9142dea44e31831fe2dfaad25d284b0978689227c2deaa070517b50",
       "firstSeenAt": "2026-10-23T07:37:37.092Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -151,7 +219,7 @@
       "source": "fxembed",
       "fingerprint": "b3f3c8f6c27561bf476c3508f30189bb8bd81bc993b8f2eb0241d0fb952d2a95",
       "firstSeenAt": "2026-10-23T01:34:51.391Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -168,7 +236,7 @@
       "source": "fxembed",
       "fingerprint": "d6fa57305bb9ff4bd04450a43023c2fc8327fcddb74359fa62d46ca56369c500",
       "firstSeenAt": "2026-10-22T07:40:22.523Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -185,7 +253,7 @@
       "source": "fxembed",
       "fingerprint": "1bb37ae47668d617ad89ffa0fe045fc9c5c1cae3caab0d32070012ecc171c14c",
       "firstSeenAt": "2026-10-22T07:40:22.523Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -202,7 +270,7 @@
       "source": "fxembed",
       "fingerprint": "1798767e9834abe25de00286133032fc5c8c433dc59101a86e6aabe228875b4e",
       "firstSeenAt": "2026-10-22T07:40:22.523Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -219,7 +287,7 @@
       "source": "fxembed",
       "fingerprint": "5d5e8863b4956e80e2d1a68351d3b0451bffd21acc55ec632f61fca67b00c10e",
       "firstSeenAt": "2026-10-21T22:24:48.833Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -236,7 +304,7 @@
       "source": "fxembed",
       "fingerprint": "91c09aa65828cd2bd62a9df459ecda8371d7d24c62d877f21bf9e51d02665e7e",
       "firstSeenAt": "2026-10-21T22:24:48.833Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -253,7 +321,7 @@
       "source": "fxembed",
       "fingerprint": "cec2077c699abb522591f46b1f9fe4e3d402a50baa246afb5d83bc3427951a24",
       "firstSeenAt": "2026-10-21T22:24:48.833Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -270,7 +338,7 @@
       "source": "fxembed",
       "fingerprint": "5284eb8f1a8a54e09511cdc62fa2bd2c75a687642d6c43aa852f739a7bae9cd6",
       "firstSeenAt": "2026-10-21T22:24:48.833Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -287,7 +355,7 @@
       "source": "fxembed",
       "fingerprint": "ad92452a9527604b4fefee8ccccfd8099973122dd2d11cdf0bb23ebe95413e9c",
       "firstSeenAt": "2026-10-21T22:24:48.833Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -304,7 +372,7 @@
       "source": "fxembed",
       "fingerprint": "0854fa9859bf67467389cfa8d2ef31f0faae190a588954d7e4d313abe991706c",
       "firstSeenAt": "2026-10-21T07:44:44.180Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -333,7 +401,7 @@
       "source": "fxembed",
       "fingerprint": "75cb2706c7c974cd3f38d92fe02462301af3abdc5c710e6106129d2c169d084b",
       "firstSeenAt": "2026-10-21T01:39:42.713Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -350,7 +418,7 @@
       "source": "fxembed",
       "fingerprint": "980bba971f4064423a7ec19dc28314ae3bf2517a38d8e266aae43baa95ee92be",
       "firstSeenAt": "2026-10-20T18:30:25.266Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -379,7 +447,7 @@
       "source": "fxembed",
       "fingerprint": "0e03d9327d846a6dec4ec1d34940c5635a91a194ab1c8666f59ddb0a386b6fa8",
       "firstSeenAt": "2026-10-20T07:40:23.401Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -396,7 +464,7 @@
       "source": "fxembed",
       "fingerprint": "60e87d47586f105b21be95ff3dd6a17197491cba862550578d6eee56839a95e6",
       "firstSeenAt": "2026-10-20T07:40:23.401Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -425,7 +493,7 @@
       "source": "fxembed",
       "fingerprint": "dfd01865dc8b21ff3bdb4aab7424723cfbe3043a3af4a971d08d16f69e217a67",
       "firstSeenAt": "2026-10-19T22:25:33.772Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -442,7 +510,7 @@
       "source": "fxembed",
       "fingerprint": "33416435e957c2960240d79b7b7188df4c9c2f89b0459e1ddaf00a1bbf01f984",
       "firstSeenAt": "2026-10-19T10:51:11.838Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -459,7 +527,7 @@
       "source": "fxembed",
       "fingerprint": "a23e8cc7ace2f0af976665e148cb0346789840ce2d79c65abbd7e21be6e04def",
       "firstSeenAt": "2026-10-19T04:49:31.936Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -476,7 +544,7 @@
       "source": "fxembed",
       "fingerprint": "6d7752b7b1339854de2ea00b88174d145bbb02ff41300a1ab3f7dbaee903a3df",
       "firstSeenAt": "2026-10-19T04:49:31.936Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -493,7 +561,7 @@
       "source": "fxembed",
       "fingerprint": "a143048dd2fbb56744b664e5eba533cab2f927ab48b5861ab94c76546cecb190",
       "firstSeenAt": "2026-10-19T04:49:31.936Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -510,7 +578,7 @@
       "source": "fxembed",
       "fingerprint": "5bd91adeb28318bee16bf26044d871bcaeecc7f58b7eeddf5913d3081fa90b22",
       "firstSeenAt": "2026-10-19T04:49:31.936Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -527,7 +595,7 @@
       "source": "fxembed",
       "fingerprint": "902a83ac11bf1b02bf016f30aa48931486c4e3d48f91c0d84c8507065e5cab14",
       "firstSeenAt": "2026-10-19T04:49:31.936Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -544,7 +612,7 @@
       "source": "fxembed",
       "fingerprint": "ef8f99db773fb8e418f78e78366950e441f9bbe7168efe88544aa9bbc62eeeb9",
       "firstSeenAt": "2026-10-19T04:49:31.936Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -561,7 +629,7 @@
       "source": "fxembed",
       "fingerprint": "a42c66e26212c822dca5fe503ea5c834006f13939697c86e7d1d612dd6fba7c5",
       "firstSeenAt": "2026-10-19T04:49:31.936Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -578,7 +646,7 @@
       "source": "fxembed",
       "fingerprint": "c45c1b26064f14f64bd4454aff3ed693aaddd7df20613cee79b0280c7f48cb98",
       "firstSeenAt": "2026-10-19T04:49:31.936Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -595,7 +663,7 @@
       "source": "fxembed",
       "fingerprint": "cdb27fa6223be3ebbaee304b40a2926254eeeea427f8a0ac487f52d06bb9bfde",
       "firstSeenAt": "2026-10-19T04:49:31.936Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -612,7 +680,7 @@
       "source": "fxembed",
       "fingerprint": "a3aaad08cebeda24904f8bd118d5fddd39eba5941206d50ae09f689eecb2c193",
       "firstSeenAt": "2026-10-18T20:50:49.619Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -629,7 +697,7 @@
       "source": "fxembed",
       "fingerprint": "ac8697663eeb8812f3389b2e7063815cd2208dcefb7fc6fb1cfb2d0ae17380af",
       "firstSeenAt": "2026-10-18T20:50:49.619Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -646,7 +714,7 @@
       "source": "fxembed",
       "fingerprint": "711098fdd4e018fe6fd28539c6772169088e71aa0cd2dde39791b1c4296240b6",
       "firstSeenAt": "2026-10-18T20:50:49.619Z",
-      "lastSeenAt": "2026-10-24T18:12:48.691Z",
+      "lastSeenAt": "2026-10-24T20:56:41.286Z",
       "editedAt": null
     },
     {
@@ -2409,9 +2477,9 @@
       "editedAt": null
     }
   ],
-  "cursor": "2114037527598576003",
-  "lastAttemptAt": "2026-10-24T18:12:48.691Z",
-  "lastSuccessAt": "2026-10-24T18:12:48.691Z",
+  "cursor": "2114086171907428846",
+  "lastAttemptAt": "2026-10-24T20:56:41.286Z",
+  "lastSuccessAt": "2026-10-24T20:56:41.286Z",
   "status": "ok",
   "error": null,
   "collection": {
