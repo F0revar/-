@@ -2859,10 +2859,10 @@
     }
   ],
   "cursor": "2114922374978277786",
-  "lastAttemptAt": "2026-10-27T06:21:48.547Z",
+  "lastAttemptAt": "2026-10-27T13:18:01.932Z",
   "lastSuccessAt": "2026-10-27T06:21:48.547Z",
-  "status": "ok",
-  "error": null,
+  "status": "error",
+  "error": "免费来源返回 HTTP 404",
   "collection": {
     "pages": 3,
     "requests": 4,
