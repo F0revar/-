@@ -2,6 +2,64 @@
   "schemaVersion": 1,
   "posts": [
     {
+      "id": "2115622002581188681",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "Day 24/ Text your dot just like anyone else. Makes it super easy to share/forward things, leave it voice notes or you can even go creative with \"Hey Siri, text Iggy to &lt;INSERT WILD REQUEST&gt;\" and sit back and relax.",
+      "createdAt": "2026-10-29T01:49:26.000Z",
+      "url": "https://x.com/thsottiaux/status/2115622002581188681",
+      "kind": "quote",
+      "replyToId": null,
+      "quote": {
+        "id": "2115496387613786374",
+        "authorId": "1714438092655149056",
+        "handle": "ChatGPT",
+        "text": "By popular request, you can now text your dot.\n\nGive it a task to take off your plate or something to keep an eye on, using text, photos, or even voice notes. It will text you proactively with relevant updates.\n\nSafe, secure texting via iMessage or RCS. You’re the only one who can text your dot, and your dot can only text you. Rolling out now as a preview for Pro users in the US.",
+        "createdAt": "2026-10-28T17:30:17.000Z",
+        "url": "https://x.com/ChatGPT/status/2115496387613786374",
+        "kind": "post",
+        "replyToId": null,
+        "quote": null,
+        "verified": true,
+        "source": "fxembed"
+      },
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "9be0f0ab3cae6eeadaf0fb2cbb4ff6267067f4538ae02936deffd52f1d37ecd6",
+      "firstSeenAt": "2026-10-29T02:32:01.305Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
+      "editedAt": null
+    },
+    {
+      "id": "2115588390414581916",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year, but we're going to proceed carefully here and take our time.\n\nWe'll have more to share soon.",
+      "createdAt": "2026-10-28T23:35:52.000Z",
+      "url": "https://x.com/thsottiaux/status/2115588390414581916",
+      "kind": "quote",
+      "replyToId": null,
+      "quote": {
+        "id": "2115565560603824452",
+        "authorId": "1565897247115644930",
+        "handle": "Angaisb_",
+        "text": "ChatGPT is unifying Chat and Work\n\nI wonder how that changes usage limits https://t.co/doX7VTV3QT",
+        "createdAt": "2026-10-28T22:05:09.000Z",
+        "url": "https://x.com/Angaisb_/status/2115565560603824452",
+        "kind": "post",
+        "replyToId": null,
+        "quote": null,
+        "verified": true,
+        "source": "fxembed"
+      },
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "fc43e834152924aaf860e9d7e8e5f529ce314b46d79be6948ca131c6e98e9a52",
+      "firstSeenAt": "2026-10-29T02:32:01.305Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
+      "editedAt": null
+    },
+    {
       "id": "2115473280677363810",
       "authorId": "1953337039510003712",
       "handle": "thsottiaux",
@@ -15,7 +73,7 @@
       "source": "fxembed",
       "fingerprint": "66ba79c6fff1a85fda5413080c79bcdc3785ed52baa15f8c229403fc5afdabfd",
       "firstSeenAt": "2026-10-28T18:53:47.113Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -44,7 +102,7 @@
       "source": "fxembed",
       "fingerprint": "c097147542f787bad0b6323b128d22a29e62c69d492b56f00df76ba6a8b5af7b",
       "firstSeenAt": "2026-10-28T18:53:47.113Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -73,7 +131,7 @@
       "source": "fxembed",
       "fingerprint": "a50070bea71da7b60b00b2f0e930ab3d0a945290a80e48c0f8a29c041cd8473d",
       "firstSeenAt": "2026-10-28T13:04:51.906Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -90,7 +148,7 @@
       "source": "fxembed",
       "fingerprint": "486df58d79cd95ee531510013a42b25d64f74f091f21c4aeeeeca896a4b8f5c0",
       "firstSeenAt": "2026-10-28T13:04:51.906Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -107,7 +165,7 @@
       "source": "fxembed",
       "fingerprint": "aedbd0849760d1e912e2947d1d35e6108d50a3c7826c590caa66501413b35ad3",
       "firstSeenAt": "2026-10-28T13:04:51.906Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -124,7 +182,7 @@
       "source": "fxembed",
       "fingerprint": "bf18d3eb34843d6c6f0eda10af3aec09822ca69ac8a896ae7e5282e5e62762d3",
       "firstSeenAt": "2026-10-28T13:04:51.906Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -141,7 +199,7 @@
       "source": "fxembed",
       "fingerprint": "12f138fc6d47798e0be30c08f5815128262a471f384d0935fb38215a0925e4fc",
       "firstSeenAt": "2026-10-28T13:04:51.906Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -158,7 +216,7 @@
       "source": "fxembed",
       "fingerprint": "64a147dd8363e1b269a63c755ddee95ff690c98fae66952ec74eaa05780fa9c6",
       "firstSeenAt": "2026-10-28T13:04:51.906Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -175,7 +233,7 @@
       "source": "fxembed",
       "fingerprint": "d80e58baad0b77e5b82bf6def4d6bfe3aadf8dcfbd1ada7ccd50e00e1a907db1",
       "firstSeenAt": "2026-10-28T13:04:51.906Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -192,7 +250,7 @@
       "source": "fxembed",
       "fingerprint": "a574136ed89bdece2038e716670e0f2e7e9e456184efa3efc9058b809d881c01",
       "firstSeenAt": "2026-10-28T13:04:51.906Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -221,7 +279,7 @@
       "source": "fxembed",
       "fingerprint": "c4f8dfec1a6ee0a935c2e7cdd48d8c10f4ed2e0f7bab546f8f87e7dfab2e92ff",
       "firstSeenAt": "2026-10-28T13:04:51.906Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -238,7 +296,7 @@
       "source": "fxembed",
       "fingerprint": "be2ddcd73c6978f9eb0e9465921fbd597beb7c206011a25e7ca8420f3b11d115",
       "firstSeenAt": "2026-10-28T13:04:51.906Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -255,7 +313,7 @@
       "source": "fxembed",
       "fingerprint": "d13fb8db44235791e08ac0c45a994e07a142ba070df35676dbfa650177e83f9a",
       "firstSeenAt": "2026-10-28T13:04:51.906Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -272,7 +330,7 @@
       "source": "fxembed",
       "fingerprint": "7cc85bb0e2095cece50ce5880196d68dd78d54d0619454be1d3f93d51d0f057d",
       "firstSeenAt": "2026-10-27T06:21:48.547Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -289,7 +347,7 @@
       "source": "fxembed",
       "fingerprint": "0cb2e794851cac867eed775d17c99c7f1601d5b5c0fd3aa5e712ee0a08977fe2",
       "firstSeenAt": "2026-10-27T00:31:13.444Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -318,7 +376,7 @@
       "source": "fxembed",
       "fingerprint": "fafeb8d713dcce4bf615c35e3f1b6a9a0f80469e723b49d2c0a954671b8fb7da",
       "firstSeenAt": "2026-10-26T20:33:50.976Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -335,7 +393,7 @@
       "source": "fxembed",
       "fingerprint": "36fc22687d07b0ce54f329541a3bd0c6fe3680e2da74842d05041e1e118485fc",
       "firstSeenAt": "2026-10-26T06:20:44.199Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -352,7 +410,7 @@
       "source": "fxembed",
       "fingerprint": "61f1135ea79a9a990ee16b144d2bfddd08b8178bcbd2da16efef96b2bafaba54",
       "firstSeenAt": "2026-10-26T06:20:44.199Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -369,7 +427,7 @@
       "source": "fxembed",
       "fingerprint": "507cdb5c94582a6d1e7acf6ae08c5035863b26f13b12d26e368ec9e6b8d5c43b",
       "firstSeenAt": "2026-10-26T06:20:44.199Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -386,7 +444,7 @@
       "source": "fxembed",
       "fingerprint": "4778f92a437ead57f194fc7ecdc3c5432a3a7095e1c449fd76e776f2853adeb6",
       "firstSeenAt": "2026-10-26T06:20:44.199Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -403,7 +461,7 @@
       "source": "fxembed",
       "fingerprint": "d52e1f5226270497c4e0336d4009574389c9c9d09962cc374090a7a6dd0b4e7a",
       "firstSeenAt": "2026-10-26T06:20:44.199Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -420,7 +478,7 @@
       "source": "fxembed",
       "fingerprint": "521dd50f00b88f2c3a62c3167409563827aec3439f684fd9ba3a4c9febb8ce3c",
       "firstSeenAt": "2026-10-26T06:20:44.199Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -437,7 +495,7 @@
       "source": "fxembed",
       "fingerprint": "3c544350c0eb49c936f75738ee838ca532de8b9381b4a10049f216d171b363c5",
       "firstSeenAt": "2026-10-25T21:51:24.802Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -454,7 +512,7 @@
       "source": "fxembed",
       "fingerprint": "28afe0f6d2f247181a3fb0ecf3746ad1924535bce7a86a80f85fc17e25b4b509",
       "firstSeenAt": "2026-10-25T21:51:24.802Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -471,7 +529,7 @@
       "source": "fxembed",
       "fingerprint": "6803f1291196671bf996a0243278940b05664676a45c812d2c8fac65b36786b4",
       "firstSeenAt": "2026-10-25T21:51:24.802Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -488,7 +546,7 @@
       "source": "fxembed",
       "fingerprint": "6c79e43b2069426b34f006bb544f745241f7d3568a542e17b1c363f733d5f77d",
       "firstSeenAt": "2026-10-25T09:52:30.838Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -517,7 +575,7 @@
       "source": "fxembed",
       "fingerprint": "2f9b6555aff0704605f277b5f1c8c5197aa8d547b5ba9dacf0f286c80de7e140",
       "firstSeenAt": "2026-10-25T09:52:30.838Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -534,7 +592,7 @@
       "source": "fxembed",
       "fingerprint": "d08cf1f4c6bdddda1cabdc4dff5cb7ec6e63d19ebb74a939671ccd73aaf4af3e",
       "firstSeenAt": "2026-10-25T09:52:30.838Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -551,7 +609,7 @@
       "source": "fxembed",
       "fingerprint": "51a3d82700ae95f6a6465dcf20e3e0d7477812361d5a6b9f3f72ddee6a9cae1e",
       "firstSeenAt": "2026-10-25T09:52:30.838Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -568,7 +626,7 @@
       "source": "fxembed",
       "fingerprint": "8428e808fa63acc22cca0889ffac8a4ecb6c3935d7a9ef6231a516203b09f5ac",
       "firstSeenAt": "2026-10-25T09:52:30.838Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -585,7 +643,7 @@
       "source": "fxembed",
       "fingerprint": "de68893ea371827716de4ecf65dc71e7e2db59fc255cc69bb2284e727785da7f",
       "firstSeenAt": "2026-10-25T09:52:30.838Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -602,7 +660,7 @@
       "source": "fxembed",
       "fingerprint": "dd3fe05786523128d407a68017aaca81cfef83723519b583d16ba9f079adee40",
       "firstSeenAt": "2026-10-25T09:52:30.838Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -619,7 +677,7 @@
       "source": "fxembed",
       "fingerprint": "552c061c38b700bc79d267feabcd5526e22918d2f96948e6bf5761d9d4ff0813",
       "firstSeenAt": "2026-10-24T23:19:57.007Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -636,7 +694,7 @@
       "source": "fxembed",
       "fingerprint": "da8ad5391d207654ed869fa4b64c76d6c81abb50bfa06a9d39895df9840f7980",
       "firstSeenAt": "2026-10-24T23:19:57.007Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -653,7 +711,7 @@
       "source": "fxembed",
       "fingerprint": "4e17082003d3c65d5713784e8f1e82d98dc27af5f47d5ac699ed0b9426d8bc62",
       "firstSeenAt": "2026-10-24T20:56:41.286Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -670,7 +728,7 @@
       "source": "fxembed",
       "fingerprint": "fe7d4d4a8923108ecf3dca1056e94f73df0e67fa06fa5c87b12f90ff9422a311",
       "firstSeenAt": "2026-10-24T20:56:41.286Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -687,7 +745,7 @@
       "source": "fxembed",
       "fingerprint": "b1f62c2d71a4d6a888fbaa79b97aaee0654c0e8d625623890bd3ab4217488a27",
       "firstSeenAt": "2026-10-24T20:56:41.286Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -704,7 +762,7 @@
       "source": "fxembed",
       "fingerprint": "6024ef990076872c3bc0eb5bbb0e7d8346ef76671e9545a70d62d190a606ab9c",
       "firstSeenAt": "2026-10-24T20:56:41.286Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -721,7 +779,7 @@
       "source": "fxembed",
       "fingerprint": "c5c83ddbcfac928f86835cd3a95cdceb577efbc87fba31959073465ba95d5428",
       "firstSeenAt": "2026-10-24T18:12:48.691Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -738,7 +796,7 @@
       "source": "fxembed",
       "fingerprint": "fc670c9d5d4ec8211a628d16c7e1bd80bae5967b4b753857a22146d5680b950f",
       "firstSeenAt": "2026-10-24T18:12:48.691Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -755,7 +813,7 @@
       "source": "fxembed",
       "fingerprint": "d91744c410504e4f28f21ac06e2bb9826e6ab91afcb2e0130ab1a3e01401c0a1",
       "firstSeenAt": "2026-10-24T05:58:24.250Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -772,7 +830,7 @@
       "source": "fxembed",
       "fingerprint": "a7650d0e5446d82fe331168d7148b9ce6a2ba99f7e58ea9f4e89ab6a04681716",
       "firstSeenAt": "2026-10-24T00:49:14.822Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -789,7 +847,7 @@
       "source": "fxembed",
       "fingerprint": "09e7b61d7b1ea79829749207f7699fd672d0e220ac34ea989f012fe62bf08e88",
       "firstSeenAt": "2026-10-24T00:49:14.822Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -806,7 +864,7 @@
       "source": "fxembed",
       "fingerprint": "7d4f620ee1bb736b7173395b7e361131bc66a4a029337662d30a88bdfd17217c",
       "firstSeenAt": "2026-10-24T00:49:14.822Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -823,7 +881,7 @@
       "source": "fxembed",
       "fingerprint": "1aabe39b3ee40c9e4a247f7941d6b8709d1cd1367eb3abe759e7f4ae2f4e63ec",
       "firstSeenAt": "2026-10-23T07:37:37.092Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -840,7 +898,7 @@
       "source": "fxembed",
       "fingerprint": "b237a852d9142dea44e31831fe2dfaad25d284b0978689227c2deaa070517b50",
       "firstSeenAt": "2026-10-23T07:37:37.092Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -857,7 +915,7 @@
       "source": "fxembed",
       "fingerprint": "b3f3c8f6c27561bf476c3508f30189bb8bd81bc993b8f2eb0241d0fb952d2a95",
       "firstSeenAt": "2026-10-23T01:34:51.391Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -874,7 +932,7 @@
       "source": "fxembed",
       "fingerprint": "d6fa57305bb9ff4bd04450a43023c2fc8327fcddb74359fa62d46ca56369c500",
       "firstSeenAt": "2026-10-22T07:40:22.523Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -891,7 +949,7 @@
       "source": "fxembed",
       "fingerprint": "1bb37ae47668d617ad89ffa0fe045fc9c5c1cae3caab0d32070012ecc171c14c",
       "firstSeenAt": "2026-10-22T07:40:22.523Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -908,7 +966,7 @@
       "source": "fxembed",
       "fingerprint": "1798767e9834abe25de00286133032fc5c8c433dc59101a86e6aabe228875b4e",
       "firstSeenAt": "2026-10-22T07:40:22.523Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -925,7 +983,7 @@
       "source": "fxembed",
       "fingerprint": "5d5e8863b4956e80e2d1a68351d3b0451bffd21acc55ec632f61fca67b00c10e",
       "firstSeenAt": "2026-10-21T22:24:48.833Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -942,7 +1000,7 @@
       "source": "fxembed",
       "fingerprint": "91c09aa65828cd2bd62a9df459ecda8371d7d24c62d877f21bf9e51d02665e7e",
       "firstSeenAt": "2026-10-21T22:24:48.833Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -959,7 +1017,7 @@
       "source": "fxembed",
       "fingerprint": "cec2077c699abb522591f46b1f9fe4e3d402a50baa246afb5d83bc3427951a24",
       "firstSeenAt": "2026-10-21T22:24:48.833Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -976,7 +1034,7 @@
       "source": "fxembed",
       "fingerprint": "5284eb8f1a8a54e09511cdc62fa2bd2c75a687642d6c43aa852f739a7bae9cd6",
       "firstSeenAt": "2026-10-21T22:24:48.833Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -993,7 +1051,7 @@
       "source": "fxembed",
       "fingerprint": "ad92452a9527604b4fefee8ccccfd8099973122dd2d11cdf0bb23ebe95413e9c",
       "firstSeenAt": "2026-10-21T22:24:48.833Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -1010,7 +1068,7 @@
       "source": "fxembed",
       "fingerprint": "0854fa9859bf67467389cfa8d2ef31f0faae190a588954d7e4d313abe991706c",
       "firstSeenAt": "2026-10-21T07:44:44.180Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -1039,7 +1097,7 @@
       "source": "fxembed",
       "fingerprint": "75cb2706c7c974cd3f38d92fe02462301af3abdc5c710e6106129d2c169d084b",
       "firstSeenAt": "2026-10-21T01:39:42.713Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -1056,7 +1114,7 @@
       "source": "fxembed",
       "fingerprint": "980bba971f4064423a7ec19dc28314ae3bf2517a38d8e266aae43baa95ee92be",
       "firstSeenAt": "2026-10-20T18:30:25.266Z",
-      "lastSeenAt": "2026-10-28T23:16:27.771Z",
+      "lastSeenAt": "2026-10-29T02:32:01.305Z",
       "editedAt": null
     },
     {
@@ -3115,9 +3173,9 @@
       "editedAt": null
     }
   ],
-  "cursor": "2115473280677363810",
-  "lastAttemptAt": "2026-10-28T23:16:27.771Z",
-  "lastSuccessAt": "2026-10-28T23:16:27.771Z",
+  "cursor": "2115622002581188681",
+  "lastAttemptAt": "2026-10-29T02:32:01.305Z",
+  "lastSuccessAt": "2026-10-29T02:32:01.305Z",
   "status": "ok",
   "error": null,
   "collection": {
