@@ -3441,10 +3441,10 @@
     }
   ],
   "cursor": "2116256600436641887",
-  "lastAttemptAt": "2026-10-30T20:51:25.433Z",
+  "lastAttemptAt": "2026-10-31T00:51:19.466Z",
   "lastSuccessAt": "2026-10-30T20:51:25.433Z",
-  "status": "ok",
-  "error": null,
+  "status": "error",
+  "error": "免费来源返回 HTTP 404",
   "collection": {
     "pages": 3,
     "requests": 4,
