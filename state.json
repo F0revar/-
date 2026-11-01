@@ -2,6 +2,91 @@
   "schemaVersion": 1,
   "posts": [
     {
+      "id": "2116936205623611781",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "My dog just patched that bug we couldn’t find for two weeks. Clever dog",
+      "createdAt": "2026-11-01T16:51:36.000Z",
+      "url": "https://x.com/thsottiaux/status/2116936205623611781",
+      "kind": "reply",
+      "replyToId": "2116935650511585696",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "77f74d907acad12215808198d2a27b968e9ebe1b3ec2ec140e923ff141458160",
+      "firstSeenAt": "2026-11-01T17:09:32.435Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
+      "editedAt": null
+    },
+    {
+      "id": "2116936031866077423",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "My dog sent you the meeting notes from yesterday, did you see them?",
+      "createdAt": "2026-11-01T16:50:55.000Z",
+      "url": "https://x.com/thsottiaux/status/2116936031866077423",
+      "kind": "reply",
+      "replyToId": "2116935650511585696",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "c71dc59ef3006364b3189f422979487123f5114d1ab2fa82776423afd1d19ece",
+      "firstSeenAt": "2026-11-01T17:09:32.435Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
+      "editedAt": null
+    },
+    {
+      "id": "2116935821534380166",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "I love my dog, I have it on speed dial, arranged my haircut yesterday",
+      "createdAt": "2026-11-01T16:50:05.000Z",
+      "url": "https://x.com/thsottiaux/status/2116935821534380166",
+      "kind": "reply",
+      "replyToId": "2116935650511585696",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "adb63149bb4e56556650acb2694f94dc6074e046ba6b7b7e8df8ea5f04023a3a",
+      "firstSeenAt": "2026-11-01T17:09:32.435Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
+      "editedAt": null
+    },
+    {
+      "id": "2116935650511585696",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "Dot still autocorrects to dog and that makes many texts I receive hilarious",
+      "createdAt": "2026-11-01T16:49:24.000Z",
+      "url": "https://x.com/thsottiaux/status/2116935650511585696",
+      "kind": "post",
+      "replyToId": null,
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "3a2b14b7915b18c07060d63ed1653c65ff8442fb69460b45a2f444f6bb5ca1c2",
+      "firstSeenAt": "2026-11-01T17:09:32.435Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
+      "editedAt": null
+    },
+    {
+      "id": "2116935471976919340",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@jxnlco @wesleytian @romainhuet 😂",
+      "createdAt": "2026-11-01T16:48:41.000Z",
+      "url": "https://x.com/thsottiaux/status/2116935471976919340",
+      "kind": "reply",
+      "replyToId": "2116889949374935338",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "ee1ee35ddd7f91a162caba84b7ebee686020e6ba7ca55634da2b197ce561a4cd",
+      "firstSeenAt": "2026-11-01T17:09:32.435Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
+      "editedAt": null
+    },
+    {
       "id": "2116692827459747906",
       "authorId": "1953337039510003712",
       "handle": "thsottiaux",
@@ -15,7 +100,7 @@
       "source": "fxembed",
       "fingerprint": "0476d323c58f08dea80bdcc30003b65b4313913c2e3fa31b1d4e7dfb3447dd24",
       "firstSeenAt": "2026-11-01T02:17:18.417Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -32,7 +117,7 @@
       "source": "fxembed",
       "fingerprint": "ca0c7de4609907f50c8ce71597f2b96231fa1cbc999faa62a74fc2613d6a3b29",
       "firstSeenAt": "2026-11-01T02:17:18.417Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -49,7 +134,7 @@
       "source": "fxembed",
       "fingerprint": "346f6705e347aa9baae1e0d249cb513b6f2a02a692963e5dd721c439f20ebfa5",
       "firstSeenAt": "2026-11-01T02:17:18.417Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -66,7 +151,7 @@
       "source": "fxembed",
       "fingerprint": "6225629fbad977f1af5cf94db17bdbb1031ddc540e4b1dcbb0e82e356b33ccc9",
       "firstSeenAt": "2026-10-31T07:02:26.781Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -83,7 +168,7 @@
       "source": "fxembed",
       "fingerprint": "38dede162f3d80dad2f1cb1a48e1cbf00458366214e0c17700462b58f26a7621",
       "firstSeenAt": "2026-10-31T07:02:26.781Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -100,7 +185,7 @@
       "source": "fxembed",
       "fingerprint": "3e4c593ab5ebb005c55bf84d103d5b8c3de98fea96dda084860b2bc0169d2f78",
       "firstSeenAt": "2026-10-31T07:02:26.781Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -117,7 +202,7 @@
       "source": "fxembed",
       "fingerprint": "8970b7da8d55d35b88b182550464e4e1a78398673dd5911f9dd5aae9f2f18560",
       "firstSeenAt": "2026-10-30T20:51:25.433Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -134,7 +219,7 @@
       "source": "fxembed",
       "fingerprint": "95d3b4a93ed210b284502b1e83632a2da6118f4094b1f9afced93659e8ac2b7e",
       "firstSeenAt": "2026-10-30T08:43:40.820Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -151,7 +236,7 @@
       "source": "fxembed",
       "fingerprint": "cb2acf7c62cdf7f034035206963f64ea9e3113b97e33d0781e0d842a253dfdba",
       "firstSeenAt": "2026-10-30T08:43:40.820Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -168,7 +253,7 @@
       "source": "fxembed",
       "fingerprint": "2c926508df5ac2a06a10e37909c0b11ee05be8a99512abb3e751c3196a1176e1",
       "firstSeenAt": "2026-10-30T08:43:40.820Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -185,7 +270,7 @@
       "source": "fxembed",
       "fingerprint": "7246d32065e1ef3b1881ad80ed34b619eab4a1e8da08b65b85b3432874a8bc11",
       "firstSeenAt": "2026-10-30T08:43:40.820Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -202,7 +287,7 @@
       "source": "fxembed",
       "fingerprint": "11758a5348324cc3f069e9e77c31e15311804b2e3f518cd5cbcc56345d15cef8",
       "firstSeenAt": "2026-10-30T08:43:40.820Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -231,7 +316,7 @@
       "source": "fxembed",
       "fingerprint": "d7c05293b9a7187739962a337b3dc6211c5dea48aef3a6a5a6c551c9119d2202",
       "firstSeenAt": "2026-10-29T21:50:19.440Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -248,7 +333,7 @@
       "source": "fxembed",
       "fingerprint": "056c46ebd25e21b64544fe6d0c012f2c733633e4ba24e998f660437f6e0a5694",
       "firstSeenAt": "2026-10-29T21:50:19.440Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -265,7 +350,7 @@
       "source": "fxembed",
       "fingerprint": "c1b15e0a7a9e83dd98e12d7a24873c5a903deb9a5fcf49935dc92cce7794d00f",
       "firstSeenAt": "2026-10-29T21:50:19.440Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -282,7 +367,7 @@
       "source": "fxembed",
       "fingerprint": "a1f35b880e6192667ee9b2e5351fa526238a0f9761703a44741e4a1f00c86999",
       "firstSeenAt": "2026-10-29T16:57:31.359Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -299,7 +384,7 @@
       "source": "fxembed",
       "fingerprint": "a952f7136afcc98e26e69a8cadbc3ea414eda4cdabe58436f93660b6f6058579",
       "firstSeenAt": "2026-10-29T16:57:31.359Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -316,7 +401,7 @@
       "source": "fxembed",
       "fingerprint": "5980f387c6b8cbddededf11b7015c42582df2056c3116e5e4bd64841e76d2d54",
       "firstSeenAt": "2026-10-29T16:57:31.359Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -333,7 +418,7 @@
       "source": "fxembed",
       "fingerprint": "e070b0b66031aa3d55a0b7bf640159f17746d8be871a620a4d8b4c8265abc02e",
       "firstSeenAt": "2026-10-29T10:06:13.416Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -350,7 +435,7 @@
       "source": "fxembed",
       "fingerprint": "4c38096facce6ea2c969dec0be867f69f29260e475eccbf1bed0ed652e1d4b19",
       "firstSeenAt": "2026-10-29T10:06:13.416Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -367,7 +452,7 @@
       "source": "fxembed",
       "fingerprint": "576d86b7ad1b06f7441699d0519ff5c09eb78fbb97e9900af2a29051d1c5f19c",
       "firstSeenAt": "2026-10-29T10:06:13.416Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -396,7 +481,7 @@
       "source": "fxembed",
       "fingerprint": "9be0f0ab3cae6eeadaf0fb2cbb4ff6267067f4538ae02936deffd52f1d37ecd6",
       "firstSeenAt": "2026-10-29T02:32:01.305Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -425,7 +510,7 @@
       "source": "fxembed",
       "fingerprint": "fc43e834152924aaf860e9d7e8e5f529ce314b46d79be6948ca131c6e98e9a52",
       "firstSeenAt": "2026-10-29T02:32:01.305Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -442,7 +527,7 @@
       "source": "fxembed",
       "fingerprint": "66ba79c6fff1a85fda5413080c79bcdc3785ed52baa15f8c229403fc5afdabfd",
       "firstSeenAt": "2026-10-28T18:53:47.113Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -471,7 +556,7 @@
       "source": "fxembed",
       "fingerprint": "c097147542f787bad0b6323b128d22a29e62c69d492b56f00df76ba6a8b5af7b",
       "firstSeenAt": "2026-10-28T18:53:47.113Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -500,7 +585,7 @@
       "source": "fxembed",
       "fingerprint": "a50070bea71da7b60b00b2f0e930ab3d0a945290a80e48c0f8a29c041cd8473d",
       "firstSeenAt": "2026-10-28T13:04:51.906Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -517,7 +602,7 @@
       "source": "fxembed",
       "fingerprint": "486df58d79cd95ee531510013a42b25d64f74f091f21c4aeeeeca896a4b8f5c0",
       "firstSeenAt": "2026-10-28T13:04:51.906Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -534,7 +619,7 @@
       "source": "fxembed",
       "fingerprint": "aedbd0849760d1e912e2947d1d35e6108d50a3c7826c590caa66501413b35ad3",
       "firstSeenAt": "2026-10-28T13:04:51.906Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -551,7 +636,7 @@
       "source": "fxembed",
       "fingerprint": "bf18d3eb34843d6c6f0eda10af3aec09822ca69ac8a896ae7e5282e5e62762d3",
       "firstSeenAt": "2026-10-28T13:04:51.906Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -568,7 +653,7 @@
       "source": "fxembed",
       "fingerprint": "12f138fc6d47798e0be30c08f5815128262a471f384d0935fb38215a0925e4fc",
       "firstSeenAt": "2026-10-28T13:04:51.906Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -585,7 +670,7 @@
       "source": "fxembed",
       "fingerprint": "64a147dd8363e1b269a63c755ddee95ff690c98fae66952ec74eaa05780fa9c6",
       "firstSeenAt": "2026-10-28T13:04:51.906Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -602,7 +687,7 @@
       "source": "fxembed",
       "fingerprint": "d80e58baad0b77e5b82bf6def4d6bfe3aadf8dcfbd1ada7ccd50e00e1a907db1",
       "firstSeenAt": "2026-10-28T13:04:51.906Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -619,7 +704,7 @@
       "source": "fxembed",
       "fingerprint": "a574136ed89bdece2038e716670e0f2e7e9e456184efa3efc9058b809d881c01",
       "firstSeenAt": "2026-10-28T13:04:51.906Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -648,7 +733,7 @@
       "source": "fxembed",
       "fingerprint": "c4f8dfec1a6ee0a935c2e7cdd48d8c10f4ed2e0f7bab546f8f87e7dfab2e92ff",
       "firstSeenAt": "2026-10-28T13:04:51.906Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -665,7 +750,7 @@
       "source": "fxembed",
       "fingerprint": "be2ddcd73c6978f9eb0e9465921fbd597beb7c206011a25e7ca8420f3b11d115",
       "firstSeenAt": "2026-10-28T13:04:51.906Z",
-      "lastSeenAt": "2026-11-01T10:34:44.685Z",
+      "lastSeenAt": "2026-11-01T17:09:32.435Z",
       "editedAt": null
     },
     {
@@ -3542,9 +3627,9 @@
       "editedAt": null
     }
   ],
-  "cursor": "2116692827459747906",
-  "lastAttemptAt": "2026-11-01T10:34:44.685Z",
-  "lastSuccessAt": "2026-11-01T10:34:44.685Z",
+  "cursor": "2116936205623611781",
+  "lastAttemptAt": "2026-11-01T17:09:32.435Z",
+  "lastSuccessAt": "2026-11-01T17:09:32.435Z",
   "status": "ok",
   "error": null,
   "collection": {
