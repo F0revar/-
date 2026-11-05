@@ -4244,10 +4244,10 @@
     }
   ],
   "cursor": "2118165504955494695",
-  "lastAttemptAt": "2026-11-05T02:31:29.779Z",
+  "lastAttemptAt": "2026-11-05T11:03:52.532Z",
   "lastSuccessAt": "2026-11-05T02:31:29.779Z",
-  "status": "ok",
-  "error": null,
+  "status": "error",
+  "error": "免费来源返回 HTTP 404",
   "collection": {
     "pages": 3,
     "requests": 4,
