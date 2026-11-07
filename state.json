@@ -2,6 +2,74 @@
   "schemaVersion": 1,
   "posts": [
     {
+      "id": "2119161246872429013",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@AdamHoltererer What's the before, after?",
+      "createdAt": "2026-11-07T20:13:08.000Z",
+      "url": "https://x.com/thsottiaux/status/2119161246872429013",
+      "kind": "reply",
+      "replyToId": "2119075894862160178",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "3ff497bf5c01ba58186c9e8a379f9890ca984959a339d63098e41826cf5cfb4a",
+      "firstSeenAt": "2026-11-07T20:15:59.741Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
+      "editedAt": null
+    },
+    {
+      "id": "2119160727164604874",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@argofowl I'm also confused about this",
+      "createdAt": "2026-11-07T20:11:04.000Z",
+      "url": "https://x.com/thsottiaux/status/2119160727164604874",
+      "kind": "reply",
+      "replyToId": "2119130437834752333",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "c3b5d900d24fa02e2657dc9f90b6848ada047980862666d323229e2d0637fab2",
+      "firstSeenAt": "2026-11-07T20:15:59.741Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
+      "editedAt": null
+    },
+    {
+      "id": "2119113983118672370",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@rezoundous Nothing much",
+      "createdAt": "2026-11-07T17:05:19.000Z",
+      "url": "https://x.com/thsottiaux/status/2119113983118672370",
+      "kind": "reply",
+      "replyToId": "2119014501240406474",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "771c7b668e44d1b5bcb20169acc0c80e981ab6109f65aba3553f666a9e66dca2",
+      "firstSeenAt": "2026-11-07T20:15:59.741Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
+      "editedAt": null
+    },
+    {
+      "id": "2119113859747426370",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@UFO2002616 Missed that you can dash",
+      "createdAt": "2026-11-07T17:04:50.000Z",
+      "url": "https://x.com/thsottiaux/status/2119113859747426370",
+      "kind": "reply",
+      "replyToId": "2118989680381395314",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "ae22715c8c003bad5a2b15b25b28552aa7e91e63ca2652f0cb6c7d993580da48",
+      "firstSeenAt": "2026-11-07T20:15:59.741Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
+      "editedAt": null
+    },
+    {
       "id": "2118953661820977315",
       "authorId": "1953337039510003712",
       "handle": "thsottiaux",
@@ -15,7 +83,7 @@
       "source": "fxembed",
       "fingerprint": "f75e1b2e5be137b80e72c52a69c09e9f4c781d6c1cd91c407f11cad4ddc0a8b2",
       "firstSeenAt": "2026-11-07T08:52:13.753Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -32,7 +100,7 @@
       "source": "fxembed",
       "fingerprint": "9a868d0a955fbb3fb91450b21006490c96b29e648b8b3102b978b7b68007cc0c",
       "firstSeenAt": "2026-11-07T08:52:13.753Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -61,7 +129,7 @@
       "source": "fxembed",
       "fingerprint": "11d55eded52b45efe432d9cfeb2b74e1035ff8c8e3dd73ce29ae7db12eda64ad",
       "firstSeenAt": "2026-11-07T08:52:13.753Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -78,7 +146,7 @@
       "source": "fxembed",
       "fingerprint": "cc111f07553f96bce91e266c75a54073cd865e46ddc862561a054f6bfeb082f4",
       "firstSeenAt": "2026-11-07T08:52:13.753Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -95,7 +163,7 @@
       "source": "fxembed",
       "fingerprint": "432a5dc76bf7ddae381d99f2763453c0e8fdf2bb2084e550b68eb2a416d339cf",
       "firstSeenAt": "2026-11-07T08:52:13.753Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -112,7 +180,7 @@
       "source": "fxembed",
       "fingerprint": "82954c8406cd2263a6f851b2cd7c811d85bd74581ebe60acd64ec39f27e036fd",
       "firstSeenAt": "2026-11-07T08:52:13.753Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -129,7 +197,7 @@
       "source": "fxembed",
       "fingerprint": "acbd16b77ed29b1e5d91079c94b39531585c5eecad6551a7364d123e6a25576e",
       "firstSeenAt": "2026-11-07T08:52:13.753Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -146,7 +214,7 @@
       "source": "fxembed",
       "fingerprint": "96a1b39cc6171edac72f7293685cf09aeb2fcab5de5d4ca264d458cab31276f9",
       "firstSeenAt": "2026-11-07T08:52:13.753Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -175,7 +243,7 @@
       "source": "fxembed",
       "fingerprint": "c42e73de7caf2e29c6f62da88c4eaea52e631937ff6f46c297a0519641352463",
       "firstSeenAt": "2026-11-07T08:52:13.753Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -192,7 +260,7 @@
       "source": "fxembed",
       "fingerprint": "96a304229d6d064b0b89d731dc953a7f8e8001f8dcfaa5f18c9d8ba75b632c92",
       "firstSeenAt": "2026-11-07T08:52:13.753Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -209,7 +277,7 @@
       "source": "fxembed",
       "fingerprint": "520e3a79dad292f40c4529f86943a486b711f2d7bbcf7bcb42951b9489b0f82e",
       "firstSeenAt": "2026-11-07T08:52:13.753Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -226,7 +294,7 @@
       "source": "fxembed",
       "fingerprint": "fe2fb2eba97585ee51344cc5471db764f7fc68d9fff6b963260591951d05a5ac",
       "firstSeenAt": "2026-11-07T08:52:13.753Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -243,7 +311,7 @@
       "source": "fxembed",
       "fingerprint": "26a89d2339308683aeacfeb10b4dcd419caab962912452f55c4dd0216a0d95a9",
       "firstSeenAt": "2026-11-07T01:58:45.245Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -260,7 +328,7 @@
       "source": "fxembed",
       "fingerprint": "eeca85311f2f9b0f11553c779a2688f1c189fbe325a60d29b7a3611599408947",
       "firstSeenAt": "2026-11-07T01:58:45.245Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -277,7 +345,7 @@
       "source": "fxembed",
       "fingerprint": "15e2389361db604799ccd92a9f7bd173849eb9e00b11800d9bfbece914ae7c75",
       "firstSeenAt": "2026-11-06T21:33:44.542Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -294,7 +362,7 @@
       "source": "fxembed",
       "fingerprint": "bdb6481047b8091c8427d6841fbcdc66a1908f5d50b2668f7ad7e17754aa805d",
       "firstSeenAt": "2026-11-06T21:33:44.542Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -311,7 +379,7 @@
       "source": "fxembed",
       "fingerprint": "cb7a5dcd020d335d7036ac2d2e5d8a7d782ecd32b4958b9937432a9f77569d16",
       "firstSeenAt": "2026-11-06T07:58:09.640Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -328,7 +396,7 @@
       "source": "fxembed",
       "fingerprint": "bc93f797145f45a6bbb728fc53bd77066d05a4360e890340860e1a907389d148",
       "firstSeenAt": "2026-11-06T07:58:09.640Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -345,7 +413,7 @@
       "source": "fxembed",
       "fingerprint": "3121ddb76ec99b32da884605d5660b65b4ae4787c9e78e11ae57b42bb5db0921",
       "firstSeenAt": "2026-11-06T07:58:09.640Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -362,7 +430,7 @@
       "source": "fxembed",
       "fingerprint": "c963787fd1a9d1c397964860af2aa3153fc2a4a1b6a36c5a6a95e6b1a55569f1",
       "firstSeenAt": "2026-11-06T07:58:09.640Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -379,7 +447,7 @@
       "source": "fxembed",
       "fingerprint": "a511089719abc9ee50a3347c2ce5ba0552dcdc6ef7a778bf588a112d627783e3",
       "firstSeenAt": "2026-11-06T07:58:09.640Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -396,7 +464,7 @@
       "source": "fxembed",
       "fingerprint": "0c9202a045960e8324a84b8d79b588ac5d57d0d7c5fb24cd3a71c218a9472cfd",
       "firstSeenAt": "2026-11-06T07:58:09.640Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -413,7 +481,7 @@
       "source": "fxembed",
       "fingerprint": "ac796e79ccea841dda313a134556e17aa51331a7313b8df68482a18d2738f07c",
       "firstSeenAt": "2026-11-06T07:58:09.640Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -430,7 +498,7 @@
       "source": "fxembed",
       "fingerprint": "f4ed2fcaeded237bc38f3fa374c3dcc853ac267d35c52e64feb212bbccd3e8f8",
       "firstSeenAt": "2026-11-06T00:22:04.064Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -447,7 +515,7 @@
       "source": "fxembed",
       "fingerprint": "b30b3331f84c93d2fd8b61e6fdb27f397169e58a221d570b9e141b7f1f5cb8f6",
       "firstSeenAt": "2026-11-06T00:22:04.064Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -464,7 +532,7 @@
       "source": "fxembed",
       "fingerprint": "c2d579b3daf55e77a6850504b66760b3bbbe846bfcc0445fd702078ebce1e490",
       "firstSeenAt": "2026-11-06T00:22:04.064Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -493,7 +561,7 @@
       "source": "fxembed",
       "fingerprint": "4b83752c6379c55f6f9c9398389fff7b3a39c27d7e91ebcced9b44e5455aa32e",
       "firstSeenAt": "2026-11-06T00:22:04.064Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -522,7 +590,7 @@
       "source": "fxembed",
       "fingerprint": "4211cb36413311cebe4845efefc9031904dc055241571fc06f94f6742ed2b7b1",
       "firstSeenAt": "2026-11-06T00:22:04.064Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -539,7 +607,7 @@
       "source": "fxembed",
       "fingerprint": "c024a076ea66475855dcf56edcc330a0ed83a398dbceb841058b07c2cbeeaab0",
       "firstSeenAt": "2026-11-06T00:22:04.064Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -568,7 +636,7 @@
       "source": "fxembed",
       "fingerprint": "f15625de4980978d5df13cfbe334478ea2262068fc86bfa69810a082beccda0d",
       "firstSeenAt": "2026-11-05T18:48:10.786Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -585,7 +653,7 @@
       "source": "fxembed",
       "fingerprint": "659bff07dc93c25a2ae4c10cbea358e81c57815c6fcdd4a30c73a8b9dc4b1841",
       "firstSeenAt": "2026-11-05T18:48:10.786Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -602,7 +670,7 @@
       "source": "fxembed",
       "fingerprint": "9c62b1368d6b3abfa4918506ef7972a55e4dfc830f8ee8fb35357e13b93601ab",
       "firstSeenAt": "2026-11-05T18:48:10.786Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -619,7 +687,7 @@
       "source": "fxembed",
       "fingerprint": "821fd114dec8c6d76ab7939cc014a4c6c649547fbfff513db9beea3420368353",
       "firstSeenAt": "2026-11-05T18:48:10.786Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -636,7 +704,7 @@
       "source": "fxembed",
       "fingerprint": "3667a4357199b6d2258fbdfdec5f83a316e93e5de4afe880c4031c3dc124fe1e",
       "firstSeenAt": "2026-11-05T18:48:10.786Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -653,7 +721,7 @@
       "source": "fxembed",
       "fingerprint": "f7ea1107c5a8f3e5c66717fd7b997d4cca752d181196406faf6d573c593f7cd9",
       "firstSeenAt": "2026-11-05T18:48:10.786Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -670,7 +738,7 @@
       "source": "fxembed",
       "fingerprint": "76a34174dbdb08599a873d70cf363f5f5d9d69b01727e6de01a255a7718c31bd",
       "firstSeenAt": "2026-11-05T18:48:10.786Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -687,7 +755,7 @@
       "source": "fxembed",
       "fingerprint": "b9fb2014bc3b132f938abf604501218d4770f382d45e11c23265b21d3996b840",
       "firstSeenAt": "2026-11-05T18:48:10.786Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -716,7 +784,7 @@
       "source": "fxembed",
       "fingerprint": "699884c53b46e34254c36458ccb0a838e0764e4bf1ae9b11ff1380eec2355a6b",
       "firstSeenAt": "2026-11-05T18:48:10.786Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -745,7 +813,7 @@
       "source": "fxembed",
       "fingerprint": "1ca0dd89021797a7906df147fd6b2caf982ee75789833e60853bc89592fb0588",
       "firstSeenAt": "2026-11-05T18:48:10.786Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -762,7 +830,7 @@
       "source": "fxembed",
       "fingerprint": "6da9cb1cb38dfc24a31ef3b97cbd6ca94ddc84d086fb7eb355b4e662d6c679f1",
       "firstSeenAt": "2026-11-05T18:48:10.786Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -791,7 +859,7 @@
       "source": "fxembed",
       "fingerprint": "325b4be6861be3b276a18f5baffe1668ad34012a591b044b03bbac743c8bce1d",
       "firstSeenAt": "2026-11-05T18:48:10.786Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -808,7 +876,7 @@
       "source": "fxembed",
       "fingerprint": "00c5609d8abf02c8e94a141e2a392bf97a29dfd7faf42917f3d2ba2fcd0df19e",
       "firstSeenAt": "2026-11-05T02:31:29.779Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -825,7 +893,7 @@
       "source": "fxembed",
       "fingerprint": "809e398fffa7da833828dc1061379bb1591bf175f57828b3bc40845175e7cad7",
       "firstSeenAt": "2026-11-05T02:31:29.779Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -842,7 +910,7 @@
       "source": "fxembed",
       "fingerprint": "d84eed973a6f1ee1255902577c3e0807d2a3134d2fa2fa48191e791247dfe71f",
       "firstSeenAt": "2026-11-05T02:31:29.779Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -859,7 +927,7 @@
       "source": "fxembed",
       "fingerprint": "686bd93320ececc2f7914d7b3eec004217a0c1573fc28425ef1d0f482ced2229",
       "firstSeenAt": "2026-11-05T02:31:29.779Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -876,7 +944,7 @@
       "source": "fxembed",
       "fingerprint": "54349ca49ed7f528afd0020ac678486fe7b694c2d8a3657c0057f6b593df5ecc",
       "firstSeenAt": "2026-11-05T02:31:29.779Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -905,7 +973,7 @@
       "source": "fxembed",
       "fingerprint": "d97e7f8d47642e8f59842129c2600718f3b276136740659e246355a6206ea2ff",
       "firstSeenAt": "2026-11-05T02:31:29.779Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -922,7 +990,7 @@
       "source": "fxembed",
       "fingerprint": "07997cecc4f04982d3ef10dc69fa509cb59eed16d17511efaed82f81ee2aaa30",
       "firstSeenAt": "2026-11-05T02:31:29.779Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -939,7 +1007,7 @@
       "source": "fxembed",
       "fingerprint": "4c1fbe7a1b1dbd0ce5c31c58375b14962747ce4122e6991d3aba2c1c197cef9f",
       "firstSeenAt": "2026-11-05T02:31:29.779Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -968,7 +1036,7 @@
       "source": "fxembed",
       "fingerprint": "b45310ed83ad370867a18073d38bb2737540bb2d3f68b5b768509d26886c0e1b",
       "firstSeenAt": "2026-11-05T02:31:29.779Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -985,7 +1053,7 @@
       "source": "fxembed",
       "fingerprint": "2cdb7c0f3e82cde0f97889aca34f3f70fce973c8a0c7ba2f9cb8357730f74e66",
       "firstSeenAt": "2026-11-05T02:31:29.779Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1002,7 +1070,7 @@
       "source": "fxembed",
       "fingerprint": "b526dbc51b431912d970e31f8c1c085c1c5d0a828d6d22f8dfc2aa65985b0636",
       "firstSeenAt": "2026-11-05T02:31:29.779Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1031,7 +1099,7 @@
       "source": "fxembed",
       "fingerprint": "3510ac4b7d4d829d36ac6aa3282aea90f54462762b6e1b2482c52592902bda5a",
       "firstSeenAt": "2026-11-05T02:31:29.779Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1048,7 +1116,7 @@
       "source": "fxembed",
       "fingerprint": "c1fae17a7df1939a86a39e30c30d53b3424587caf2685cc3b446bc851634df40",
       "firstSeenAt": "2026-11-05T02:31:29.779Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1065,7 +1133,7 @@
       "source": "fxembed",
       "fingerprint": "f902f200464612a3a00c6fc52b4a302dc05e2da019b0b50191fb3487aaa29df4",
       "firstSeenAt": "2026-11-05T02:31:29.779Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1094,7 +1162,7 @@
       "source": "fxembed",
       "fingerprint": "122199bc58edc1b4552ca519da5bbc49b40a252f6fd9ba7831db7097ed161343",
       "firstSeenAt": "2026-11-05T02:31:29.779Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1111,7 +1179,7 @@
       "source": "fxembed",
       "fingerprint": "c420fca9db2e801af2a27f00ac70fef0b6df05b4dcb1011b2151b3821d3f41b3",
       "firstSeenAt": "2026-11-05T02:31:29.779Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1128,7 +1196,7 @@
       "source": "fxembed",
       "fingerprint": "02370ac7a0c0eda3f1a3a33e52fd3ae4359f534aa177404c6969b03946689fa7",
       "firstSeenAt": "2026-11-05T02:31:29.779Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1145,7 +1213,7 @@
       "source": "fxembed",
       "fingerprint": "b017c6aa1960b21f6a0ff3b6aac154900f54ff58a5f02b4888aa481f7afbb13d",
       "firstSeenAt": "2026-11-05T02:31:29.779Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1162,7 +1230,7 @@
       "source": "fxembed",
       "fingerprint": "9ea7bd182d602b69bc07ee99db6b323a9949a56a1c3ec2433c860451dc88579b",
       "firstSeenAt": "2026-11-04T06:34:54.844Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1179,7 +1247,7 @@
       "source": "fxembed",
       "fingerprint": "0eb5b58bb1c73b63eedaa091931adf15d3a81233954a50ffe623ed5217226e64",
       "firstSeenAt": "2026-11-03T23:28:38.599Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1196,7 +1264,7 @@
       "source": "fxembed",
       "fingerprint": "dc36cfd97f24706a2462960d101ad059bc2e6dca00ceb54a43ca5bfd247d258d",
       "firstSeenAt": "2026-11-03T17:53:00.625Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1213,7 +1281,7 @@
       "source": "fxembed",
       "fingerprint": "a74136f577752039a7d2e62c4c6efeb8ba91d23b26d3a6e0b472d76d20822e5c",
       "firstSeenAt": "2026-11-03T17:53:00.625Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1230,7 +1298,7 @@
       "source": "fxembed",
       "fingerprint": "c8eab9d9f8be45b520a18d1316c84ccde7e6e13cbaf44e44937aee3d53c85a90",
       "firstSeenAt": "2026-11-03T17:53:00.625Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1259,7 +1327,7 @@
       "source": "fxembed",
       "fingerprint": "0947f27353f827c486d4c987ad70ecad6a49c94604907aa963f7213e92d1eb56",
       "firstSeenAt": "2026-11-03T01:38:09.142Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1276,7 +1344,7 @@
       "source": "fxembed",
       "fingerprint": "82c45cb55127f3889021f3b2d1733e1de9ace72c699010d75c51ad8205e5fd6b",
       "firstSeenAt": "2026-11-03T01:38:09.142Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1293,7 +1361,7 @@
       "source": "fxembed",
       "fingerprint": "c79a2cfe15a1b838bbb4a6026618c03920b10275fb433f11dd5fb3362e19c035",
       "firstSeenAt": "2026-11-02T18:28:38.803Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1310,7 +1378,7 @@
       "source": "fxembed",
       "fingerprint": "d8ed7856d0bdfe86e1e7ce6bf27e21ee78e57ff0d28426eeaf46ae47eae33af5",
       "firstSeenAt": "2026-11-02T18:28:38.803Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1327,7 +1395,7 @@
       "source": "fxembed",
       "fingerprint": "1e446a3712d0b4ba7dff849ac675d677155fcbd7b32b32ffc9551cb5d6b8dc54",
       "firstSeenAt": "2026-11-02T07:43:42.632Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1356,7 +1424,7 @@
       "source": "fxembed",
       "fingerprint": "6b09e1cc8cd20e2ea76ad0835aa5b664d252bcc946441c1bce1a15653a9c06e8",
       "firstSeenAt": "2026-11-02T07:43:42.632Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1373,7 +1441,7 @@
       "source": "fxembed",
       "fingerprint": "396ff444713816d092b7ddb1c2f8c435ff54cba2b98a763c4e457045f46f4e1a",
       "firstSeenAt": "2026-11-02T00:51:43.548Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1390,7 +1458,7 @@
       "source": "fxembed",
       "fingerprint": "1bca65653e74fa2604925721c04501e6c4b5e77099ea8e5c466ac7778ab037f2",
       "firstSeenAt": "2026-11-02T00:51:43.548Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1407,7 +1475,7 @@
       "source": "fxembed",
       "fingerprint": "b7f925dfc9cbe6e2333a71935c660736b44804c87097f709468ae44866840bed",
       "firstSeenAt": "2026-11-01T21:13:54.097Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1424,7 +1492,7 @@
       "source": "fxembed",
       "fingerprint": "77f74d907acad12215808198d2a27b968e9ebe1b3ec2ec140e923ff141458160",
       "firstSeenAt": "2026-11-01T17:09:32.435Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1441,7 +1509,7 @@
       "source": "fxembed",
       "fingerprint": "c71dc59ef3006364b3189f422979487123f5114d1ab2fa82776423afd1d19ece",
       "firstSeenAt": "2026-11-01T17:09:32.435Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1458,7 +1526,7 @@
       "source": "fxembed",
       "fingerprint": "adb63149bb4e56556650acb2694f94dc6074e046ba6b7b7e8df8ea5f04023a3a",
       "firstSeenAt": "2026-11-01T17:09:32.435Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -1475,7 +1543,7 @@
       "source": "fxembed",
       "fingerprint": "3a2b14b7915b18c07060d63ed1653c65ff8442fb69460b45a2f444f6bb5ca1c2",
       "firstSeenAt": "2026-11-01T17:09:32.435Z",
-      "lastSeenAt": "2026-11-07T15:42:53.355Z",
+      "lastSeenAt": "2026-11-07T20:15:59.741Z",
       "editedAt": null
     },
     {
@@ -5036,14 +5104,14 @@
       "editedAt": null
     }
   ],
-  "cursor": "2118953661820977315",
-  "lastAttemptAt": "2026-11-07T15:42:53.355Z",
-  "lastSuccessAt": "2026-11-07T15:42:53.355Z",
+  "cursor": "2119161246872429013",
+  "lastAttemptAt": "2026-11-07T20:15:59.741Z",
+  "lastSuccessAt": "2026-11-07T20:15:59.741Z",
   "status": "ok",
   "error": null,
   "collection": {
     "pages": 4,
     "requests": 5,
-    "fetched": 80
+    "fetched": 81
   }
 }
