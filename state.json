@@ -5321,10 +5321,10 @@
     }
   ],
   "cursor": "2119309070658318698",
-  "lastAttemptAt": "2026-11-08T18:52:14.189Z",
+  "lastAttemptAt": "2026-11-08T22:55:54.849Z",
   "lastSuccessAt": "2026-11-08T18:52:14.189Z",
-  "status": "ok",
-  "error": null,
+  "status": "error",
+  "error": "上游分页游标重复；保留原检查点",
   "collection": {
     "pages": 4,
     "requests": 5,
