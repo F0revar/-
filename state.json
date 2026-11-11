@@ -5418,10 +5418,10 @@
     }
   ],
   "cursor": "2120021043876106429",
-  "lastAttemptAt": "2026-11-10T20:51:59.727Z",
+  "lastAttemptAt": "2026-11-11T01:17:23.396Z",
   "lastSuccessAt": "2026-11-10T20:51:59.727Z",
-  "status": "ok",
-  "error": null,
+  "status": "error",
+  "error": "免费来源返回 HTTP 404",
   "collection": {
     "pages": 2,
     "requests": 3,
