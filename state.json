@@ -5692,10 +5692,10 @@
     }
   ],
   "cursor": "2121134582527594929",
-  "lastAttemptAt": "2026-11-14T21:32:37.878Z",
+  "lastAttemptAt": "2026-11-15T01:57:45.169Z",
   "lastSuccessAt": "2026-11-14T21:32:37.878Z",
-  "status": "ok",
-  "error": null,
+  "status": "error",
+  "error": "免费来源返回 HTTP 404",
   "collection": {
     "pages": 2,
     "requests": 3,
