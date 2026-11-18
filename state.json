@@ -5959,10 +5959,10 @@
     }
   ],
   "cursor": "2122903687949688912",
-  "lastAttemptAt": "2026-11-18T04:28:59.948Z",
+  "lastAttemptAt": "2026-11-18T14:08:59.273Z",
   "lastSuccessAt": "2026-11-18T04:28:59.948Z",
-  "status": "ok",
-  "error": null,
+  "status": "error",
+  "error": "免费来源返回 HTTP 404",
   "collection": {
     "pages": 2,
     "requests": 3,
