@@ -2,6 +2,125 @@
   "schemaVersion": 1,
   "posts": [
     {
+      "id": "2122903687949688912",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@swyx It's that is the only critique of the launch, I'm glad. It is indeed truly all about efficiency and topline capabilities. We'll highlight more interesting things in the next launch video.",
+      "createdAt": "2026-11-18T04:04:15.000Z",
+      "url": "https://x.com/thsottiaux/status/2122903687949688912",
+      "kind": "reply",
+      "replyToId": "2122862646265520150",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "7c97142bfe29b217ba307a59d7572058e028c67a5cc042f06f480ab8db78be45",
+      "firstSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "editedAt": null
+    },
+    {
+      "id": "2122902327443300537",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@adonis_singh What are they getting wrong? Curious",
+      "createdAt": "2026-11-18T03:58:51.000Z",
+      "url": "https://x.com/thsottiaux/status/2122902327443300537",
+      "kind": "reply",
+      "replyToId": "2122851213993779342",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "2757f532da8dbb00fb3c7ddfce12830b2b8bd91a68f43370f53e9e18c7b9028a",
+      "firstSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "editedAt": null
+    },
+    {
+      "id": "2122891208968294400",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@JoshPurtell Beauty is in the eye of the beholder, but clearly the models are polarizing. A bit like we had in the early codex days. These models are clearly extremely capable but have a couple of rough edges that we will sand down over time.",
+      "createdAt": "2026-11-18T03:14:40.000Z",
+      "url": "https://x.com/thsottiaux/status/2122891208968294400",
+      "kind": "reply",
+      "replyToId": "2122852757170213351",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "84d337e9e9a96a1e5dc2a3034c42a972b642cd5cf1cf1157be1fb991d493603e",
+      "firstSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "editedAt": null
+    },
+    {
+      "id": "2122880368600621508",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@arcprize @OpenAI !!",
+      "createdAt": "2026-11-18T02:31:35.000Z",
+      "url": "https://x.com/thsottiaux/status/2122880368600621508",
+      "kind": "reply",
+      "replyToId": "2122751233442156678",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "38c01343f67668b51eb4407cd78197dbaa58006a14db8fa2d268fb8d9e1d6d90",
+      "firstSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "editedAt": null
+    },
+    {
+      "id": "2122880282550481388",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@pradeepXkapoor Let's go bro",
+      "createdAt": "2026-11-18T02:31:15.000Z",
+      "url": "https://x.com/thsottiaux/status/2122880282550481388",
+      "kind": "reply",
+      "replyToId": "2122820808494182521",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "e221c881e90b7c82be3ed5206c85d9398484b78c729067ae3be793e5c387bc9b",
+      "firstSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "editedAt": null
+    },
+    {
+      "id": "2122851449474605281",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@skalskip92 Awkward",
+      "createdAt": "2026-11-18T00:36:40.000Z",
+      "url": "https://x.com/thsottiaux/status/2122851449474605281",
+      "kind": "reply",
+      "replyToId": "2122826476252746149",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "12af4d594e757ee78c4834f78474e7aa00d09eb7537db402b537bf5bc007fc3f",
+      "firstSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "editedAt": null
+    },
+    {
+      "id": "2122850498202271748",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@dingchilling Pretty!",
+      "createdAt": "2026-11-18T00:32:54.000Z",
+      "url": "https://x.com/thsottiaux/status/2122850498202271748",
+      "kind": "reply",
+      "replyToId": "2122813429941694523",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "66546c9b9c90cf32da77005efd038b815682d705d64769e28c1fc48eb6dc533a",
+      "firstSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "editedAt": null
+    },
+    {
       "id": "2122816458711548126",
       "authorId": "1953337039510003712",
       "handle": "thsottiaux",
@@ -15,7 +134,7 @@
       "source": "fxembed",
       "fingerprint": "673eea5cca48c9dcd2da2de3147024df38d089682f24f9bb2ad93681b5b24e48",
       "firstSeenAt": "2026-11-17T22:27:37.679Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -32,7 +151,7 @@
       "source": "fxembed",
       "fingerprint": "4b1934bc2196b4f1488ad26097cfbc485655202e82ad659daab997a795779c5d",
       "firstSeenAt": "2026-11-17T22:27:37.679Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -49,7 +168,7 @@
       "source": "fxembed",
       "fingerprint": "7615d9983acc093993d5b7f6836de94c9972510acd4e0394123d419d0075b370",
       "firstSeenAt": "2026-11-17T22:27:37.679Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -66,7 +185,7 @@
       "source": "fxembed",
       "fingerprint": "0166d6be876db1c1311e7aed39736a49f4bd6e4c150819b18e5d076261994b28",
       "firstSeenAt": "2026-11-17T22:27:37.679Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -95,7 +214,7 @@
       "source": "fxembed",
       "fingerprint": "1fb75538e195f0031b44984ae4e8631c765f72140d352d1d35e51e1f64e6fcd9",
       "firstSeenAt": "2026-11-17T22:27:37.679Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -112,7 +231,7 @@
       "source": "fxembed",
       "fingerprint": "b393c4378687ca1cc736240be5fb61ca95c6e1fc34b1a86dc014f84e554de6ba",
       "firstSeenAt": "2026-11-17T13:32:50.715Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -129,7 +248,7 @@
       "source": "fxembed",
       "fingerprint": "f9aefe40f6489147a96850ec5f16dd8f23877d90b2c8c9e351d857e9c2951b80",
       "firstSeenAt": "2026-11-17T13:32:50.715Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -146,7 +265,7 @@
       "source": "fxembed",
       "fingerprint": "92c8b3cf980ac3426a224b1f185248f4bc1c67efe81fd61343818cdada8bfd9c",
       "firstSeenAt": "2026-11-15T09:31:33.090Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -163,7 +282,7 @@
       "source": "fxembed",
       "fingerprint": "64ecc2194b9807f2489771fed6fc53e15aac21d0759d5bb1db304cf4e07e048c",
       "firstSeenAt": "2026-11-14T02:28:48.417Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -180,7 +299,7 @@
       "source": "fxembed",
       "fingerprint": "331096f7f42bfd14deed03dd9f587917677bff03e618930236847257819ccef4",
       "firstSeenAt": "2026-11-13T06:53:15.593Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -197,7 +316,7 @@
       "source": "fxembed",
       "fingerprint": "b7679d118288142be9d9c8290d1655b0ba0da311546ebd810f64b0de5a5e444e",
       "firstSeenAt": "2026-11-13T06:53:15.593Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -214,7 +333,7 @@
       "source": "fxembed",
       "fingerprint": "43fbc5d55d0f6247cb5a8d6d421a82f6ae6f7316af30c550e9d9007593d76133",
       "firstSeenAt": "2026-11-13T06:53:15.593Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -231,7 +350,7 @@
       "source": "fxembed",
       "fingerprint": "c0c6ce183fe4a6471dcf6c98b28bf38b5ddf0bfdb236386cd76618e61afe1256",
       "firstSeenAt": "2026-11-13T06:53:15.593Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -260,7 +379,7 @@
       "source": "fxembed",
       "fingerprint": "6117aff89437145ca9900db64d201a545d5878ce5f274087b0014a3605aaa7c3",
       "firstSeenAt": "2026-11-12T23:41:16.914Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -277,7 +396,7 @@
       "source": "fxembed",
       "fingerprint": "6710868b82df0a1c55742ba13c897e3cf483828ce2739b4300f0dee38b13d851",
       "firstSeenAt": "2026-11-12T00:47:55.184Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -294,7 +413,7 @@
       "source": "fxembed",
       "fingerprint": "6cacbc26489af040549984261b1e59afc7028ebbc60adf1abbb6d4bc05d528f9",
       "firstSeenAt": "2026-11-11T09:30:35.078Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -311,7 +430,7 @@
       "source": "fxembed",
       "fingerprint": "6814c5b28bd4cd8e131f06b12be68616ceee17315c0bb58ddddac034c721543c",
       "firstSeenAt": "2026-11-11T09:30:35.078Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -328,7 +447,7 @@
       "source": "fxembed",
       "fingerprint": "03b52ed671b9e80e3bcb3bfa8c3159ea53dc364a088d120365c00192640a5175",
       "firstSeenAt": "2026-11-11T09:30:35.078Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -345,7 +464,7 @@
       "source": "fxembed",
       "fingerprint": "09056611ad10a220f3e7033e221caed85b97c5f6b15097b72529ddbf65eec5df",
       "firstSeenAt": "2026-11-11T09:30:35.078Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -362,7 +481,7 @@
       "source": "fxembed",
       "fingerprint": "419299b6fffd445a4bdafc739a74c35636b7bcdd76030ba602a2041f53c897e7",
       "firstSeenAt": "2026-11-11T09:30:35.078Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -391,7 +510,7 @@
       "source": "fxembed",
       "fingerprint": "9f95f7e74cc47a48f7048ac7351f2fa5b19b9da85c210a29756a858792643fa3",
       "firstSeenAt": "2026-11-11T09:30:35.078Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -420,7 +539,7 @@
       "source": "fxembed",
       "fingerprint": "b5e9e86b297b5b439fcebf245340e01d22cb461bfb33d2c930623a83ca11d028",
       "firstSeenAt": "2026-11-11T09:30:35.078Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -449,7 +568,7 @@
       "source": "fxembed",
       "fingerprint": "c356ec0b56426df4e3a86b331e0a0ef9b51f3538653d5400183dcb16278583d6",
       "firstSeenAt": "2026-11-10T13:32:06.573Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -466,7 +585,7 @@
       "source": "fxembed",
       "fingerprint": "07eca61859dcb678ece7f435204eb1f3cfef29eb1db5dc6e6054c7c0a62eb9e7",
       "firstSeenAt": "2026-11-10T13:32:06.573Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -483,7 +602,7 @@
       "source": "fxembed",
       "fingerprint": "ef60d4ddc915e185913a9ac8b9afe3f92d21050f0d3a577b12661a10fdf2ebd2",
       "firstSeenAt": "2026-11-09T02:42:43.433Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -500,7 +619,7 @@
       "source": "fxembed",
       "fingerprint": "9bb67734f0431c4ba62d59ef96312041ea2400313f28aaa5255d33eed7ec5167",
       "firstSeenAt": "2026-11-09T02:42:43.433Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -517,7 +636,7 @@
       "source": "fxembed",
       "fingerprint": "50d191a15ca1939c89a1ed4c5e1f64b8a5ed470029d259a0c0e409ff26fa915d",
       "firstSeenAt": "2026-11-09T02:42:43.433Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -534,7 +653,7 @@
       "source": "fxembed",
       "fingerprint": "ea4ab34f4fd3c4c60904e53cd18d0cbb78b43a27eae0510d1fc64954ea9a7ac7",
       "firstSeenAt": "2026-11-08T06:11:41.112Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -551,7 +670,7 @@
       "source": "fxembed",
       "fingerprint": "dec33cbc0f719e26b36dcfdffa6814f371152010d263f196c57f5c278c91eb0c",
       "firstSeenAt": "2026-11-08T06:11:41.112Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -568,7 +687,7 @@
       "source": "fxembed",
       "fingerprint": "30414a68ea3f241a244e72b56085748004ff4e609b1c909faf03dc76a3b41069",
       "firstSeenAt": "2026-11-08T06:11:41.112Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -597,7 +716,7 @@
       "source": "fxembed",
       "fingerprint": "5de1fc13c14e2354f0cad77439ec9fe984da62fc5c12b56ecfbe2627a837c987",
       "firstSeenAt": "2026-11-08T06:11:41.112Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -614,7 +733,7 @@
       "source": "fxembed",
       "fingerprint": "b7189857b6733b06bceecdc0d06e710a43a3d7489533ac7c26724a0b7d4d50e1",
       "firstSeenAt": "2026-11-08T06:11:41.112Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -631,7 +750,7 @@
       "source": "fxembed",
       "fingerprint": "f641b6cc54a399676be266c9137b8d22b033b3de6262898b023ebf53b9adc289",
       "firstSeenAt": "2026-11-08T06:11:41.112Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-18T04:28:59.948Z",
       "editedAt": null
     },
     {
@@ -5839,9 +5958,9 @@
       "editedAt": null
     }
   ],
-  "cursor": "2122816458711548126",
-  "lastAttemptAt": "2026-11-17T22:27:37.679Z",
-  "lastSuccessAt": "2026-11-17T22:27:37.679Z",
+  "cursor": "2122903687949688912",
+  "lastAttemptAt": "2026-11-18T04:28:59.948Z",
+  "lastSuccessAt": "2026-11-18T04:28:59.948Z",
   "status": "ok",
   "error": null,
   "collection": {
