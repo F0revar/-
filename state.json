@@ -2,6 +2,273 @@
   "schemaVersion": 1,
   "posts": [
     {
+      "id": "2123179276199735535",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@DannyIO It does like math",
+      "createdAt": "2026-11-18T22:19:20.000Z",
+      "url": "https://x.com/thsottiaux/status/2123179276199735535",
+      "kind": "reply",
+      "replyToId": "2123176503861235773",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "e821f66382096d288753e2d25b27badc6d8672e369a4fa8c1656e551b3cc495e",
+      "firstSeenAt": "2026-11-19T03:36:27.530Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
+      "editedAt": null
+    },
+    {
+      "id": "2123175166519992652",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "GPT-6.2 Astra is pretty good at hard things. Here the team shared some results on AMD and Jalapeño chip optimizations.\n\nI do get the feedback on its communication style and we're working on that, but for really the hardest tasks in the world it does seem to be in a league of its own at the moment.",
+      "createdAt": "2026-11-18T22:03:01.000Z",
+      "url": "https://x.com/thsottiaux/status/2123175166519992652",
+      "kind": "quote",
+      "replyToId": null,
+      "quote": {
+        "id": "2123100386638877054",
+        "authorId": "4398626122",
+        "handle": "OpenAI",
+        "text": "Working with @AMD, our models identified up to 14% PPA improvement on flagship GPU IP in less than five months—building on designs AMD’s engineers had already spent years optimizing.\n\nThe same approach helped improve Jalapeño, our first custom inference chip, with gains verified on real silicon.\n\nNew evaluations also show our models getting better at certain chip design tasks.\n\nWe’re sharing these results and how we’re working with @Synopsys to bring our model capabilities and their trusted EDA design and validation tools to more chip designers.\n\nhttps://t.co/4BNcPIqfIQ",
+        "createdAt": "2026-11-18T17:05:52.000Z",
+        "url": "https://x.com/OpenAI/status/2123100386638877054",
+        "kind": "post",
+        "replyToId": null,
+        "quote": null,
+        "verified": true,
+        "source": "fxembed"
+      },
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "e24302a6b77e66ed7613e024cb72e8a88d8b46387842f200dc5632c4dc04a862",
+      "firstSeenAt": "2026-11-19T03:36:27.530Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
+      "editedAt": null
+    },
+    {
+      "id": "2123151267002503570",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@AdamHoltererer Climbing",
+      "createdAt": "2026-11-18T20:28:02.000Z",
+      "url": "https://x.com/thsottiaux/status/2123151267002503570",
+      "kind": "reply",
+      "replyToId": "2123073463703183566",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "8f106c58a27cae4db6e6fdc303eface68cdb9ced945512f420f02cd7636fbd8a",
+      "firstSeenAt": "2026-11-19T03:36:27.530Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
+      "editedAt": null
+    },
+    {
+      "id": "2123150581321883811",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@Leapofcode GG",
+      "createdAt": "2026-11-18T20:25:19.000Z",
+      "url": "https://x.com/thsottiaux/status/2123150581321883811",
+      "kind": "reply",
+      "replyToId": "2123078382628000098",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "f67697a9b6e7bc2c7bee91967731cf6a33db8c16124c1454ef227429a4f70949",
+      "firstSeenAt": "2026-11-19T03:36:27.530Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
+      "editedAt": null
+    },
+    {
+      "id": "2123113107048501273",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "How is 6.2 Sol treating you today?",
+      "createdAt": "2026-11-18T17:56:24.000Z",
+      "url": "https://x.com/thsottiaux/status/2123113107048501273",
+      "kind": "post",
+      "replyToId": null,
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "b9d73be183b31a6ffe445904ddf245eef29d5aafc6ae0950cc56223e9c88c82a",
+      "firstSeenAt": "2026-11-19T03:36:27.530Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
+      "editedAt": null
+    },
+    {
+      "id": "2123112903809318994",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@Yampeleg What are you using it for?",
+      "createdAt": "2026-11-18T17:55:36.000Z",
+      "url": "https://x.com/thsottiaux/status/2123112903809318994",
+      "kind": "reply",
+      "replyToId": "2122990260900823340",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "a65affcf26224160e152b36372e3e540980a9edd93a89c07e24e4ad73a63dba8",
+      "firstSeenAt": "2026-11-19T03:36:27.530Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
+      "editedAt": null
+    },
+    {
+      "id": "2123112623294320913",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@theo Thank you Theo ❤️",
+      "createdAt": "2026-11-18T17:54:29.000Z",
+      "url": "https://x.com/thsottiaux/status/2123112623294320913",
+      "kind": "reply",
+      "replyToId": "2122991778622263514",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "47ea34ababcf365dd5ac64e4c09ef742fba69f714faf2fc2bf7480e16ca207c5",
+      "firstSeenAt": "2026-11-19T03:36:27.530Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
+      "editedAt": null
+    },
+    {
+      "id": "2122954129094111394",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@mattshumer_ I do think you all coordinated on a slack channel 👀",
+      "createdAt": "2026-11-18T07:24:41.000Z",
+      "url": "https://x.com/thsottiaux/status/2122954129094111394",
+      "kind": "reply",
+      "replyToId": "2122895253468295605",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "898c1a38dbd874002b535d25711428af459e49d0c3ed5162b95e59d187809ecc",
+      "firstSeenAt": "2026-11-19T03:36:27.530Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
+      "editedAt": null
+    },
+    {
+      "id": "2122953953851879880",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@The_Alex Alex, let's go, sorry you have to adapt a bit, but it pays off. Next generation will make it all more natural, in the meantime the raw power is indeed there already.",
+      "createdAt": "2026-11-18T07:23:59.000Z",
+      "url": "https://x.com/thsottiaux/status/2122953953851879880",
+      "kind": "reply",
+      "replyToId": "2122945976566690254",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "ae7c66c182c7520c55453e66b4aa479c29f33d4fd09d722c36e70689f17b47a0",
+      "firstSeenAt": "2026-11-19T03:36:27.530Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
+      "editedAt": null
+    },
+    {
+      "id": "2122953161921196052",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@JamesMalsawm You need to share the prompt for that one, that's beautiful",
+      "createdAt": "2026-11-18T07:20:51.000Z",
+      "url": "https://x.com/thsottiaux/status/2122953161921196052",
+      "kind": "reply",
+      "replyToId": "2122910168098730290",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "4c5f615ea2f4a05be75fd658182411f05151ecd61390fc8539bed4dbfbb01ae1",
+      "firstSeenAt": "2026-11-19T03:36:27.530Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
+      "editedAt": null
+    },
+    {
+      "id": "2122952910137135379",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@MiaAI_lab Yes, that's the whole point of getting feedback",
+      "createdAt": "2026-11-18T07:19:50.000Z",
+      "url": "https://x.com/thsottiaux/status/2122952910137135379",
+      "kind": "reply",
+      "replyToId": "2122934710640730231",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "3241b1a7b8e8a203441f5f2c3fd6744cd0f085634e1773989506e47111ba3193",
+      "firstSeenAt": "2026-11-19T03:36:27.530Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
+      "editedAt": null
+    },
+    {
+      "id": "2122950072623350250",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@Wilf_Lin Yes",
+      "createdAt": "2026-11-18T07:08:34.000Z",
+      "url": "https://x.com/thsottiaux/status/2122950072623350250",
+      "kind": "reply",
+      "replyToId": "2122935062031417431",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "23c6980f4c4571bb789734323e71105433ef8d4ce037b5c053173e20969f1859",
+      "firstSeenAt": "2026-11-19T03:36:27.530Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
+      "editedAt": null
+    },
+    {
+      "id": "2122949739708809619",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@theo Try this in codex\n\n&gt; Add this to my custom instructions \"Talk to me ELI5 by default and go deeper if I ask.\"\n\nbut also, team is on it.",
+      "createdAt": "2026-11-18T07:07:15.000Z",
+      "url": "https://x.com/thsottiaux/status/2122949739708809619",
+      "kind": "reply",
+      "replyToId": "2122934242648932366",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "f6b46bfa02feef14525b3dddaf4ef00ff7c684056a6a96df7ea08283712423a2",
+      "firstSeenAt": "2026-11-19T03:36:27.530Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
+      "editedAt": null
+    },
+    {
+      "id": "2122938155225752015",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "@iruletheworldmo 👀",
+      "createdAt": "2026-11-18T06:21:13.000Z",
+      "url": "https://x.com/thsottiaux/status/2122938155225752015",
+      "kind": "reply",
+      "replyToId": "2122895745380491419",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "c19880e1cffc4c7583fa5c62a8caad68804963c3ef17bc42be0cf73087cb2979",
+      "firstSeenAt": "2026-11-19T03:36:27.530Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
+      "editedAt": null
+    },
+    {
+      "id": "2122929634916679820",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot of changes in the last 3-4 days and I'm pretty sure no re-testing was done within those days and the videos were produced last week.\n\nDon't get me wrong, while the models are a hefty jump compared to their GPT predecessors, they are by no means perfect and there are a few things the teams are excited for the models to get better at in future iterations in terms of taste and niceness of use. Love all the feedback and we hear you!",
+      "createdAt": "2026-11-18T05:47:21.000Z",
+      "url": "https://x.com/thsottiaux/status/2122929634916679820",
+      "kind": "post",
+      "replyToId": null,
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "d84b7a8c240145f95f786dc94008b154cd956af4e2307497f1fd7aae6046a82c",
+      "firstSeenAt": "2026-11-19T03:36:27.530Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
+      "editedAt": null
+    },
+    {
       "id": "2122903687949688912",
       "authorId": "1953337039510003712",
       "handle": "thsottiaux",
@@ -15,7 +282,7 @@
       "source": "fxembed",
       "fingerprint": "7c97142bfe29b217ba307a59d7572058e028c67a5cc042f06f480ab8db78be45",
       "firstSeenAt": "2026-11-18T04:28:59.948Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -32,7 +299,7 @@
       "source": "fxembed",
       "fingerprint": "2757f532da8dbb00fb3c7ddfce12830b2b8bd91a68f43370f53e9e18c7b9028a",
       "firstSeenAt": "2026-11-18T04:28:59.948Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -49,7 +316,7 @@
       "source": "fxembed",
       "fingerprint": "84d337e9e9a96a1e5dc2a3034c42a972b642cd5cf1cf1157be1fb991d493603e",
       "firstSeenAt": "2026-11-18T04:28:59.948Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -66,7 +333,7 @@
       "source": "fxembed",
       "fingerprint": "38c01343f67668b51eb4407cd78197dbaa58006a14db8fa2d268fb8d9e1d6d90",
       "firstSeenAt": "2026-11-18T04:28:59.948Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -83,7 +350,7 @@
       "source": "fxembed",
       "fingerprint": "e221c881e90b7c82be3ed5206c85d9398484b78c729067ae3be793e5c387bc9b",
       "firstSeenAt": "2026-11-18T04:28:59.948Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -100,7 +367,7 @@
       "source": "fxembed",
       "fingerprint": "12af4d594e757ee78c4834f78474e7aa00d09eb7537db402b537bf5bc007fc3f",
       "firstSeenAt": "2026-11-18T04:28:59.948Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -117,7 +384,7 @@
       "source": "fxembed",
       "fingerprint": "66546c9b9c90cf32da77005efd038b815682d705d64769e28c1fc48eb6dc533a",
       "firstSeenAt": "2026-11-18T04:28:59.948Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -134,7 +401,7 @@
       "source": "fxembed",
       "fingerprint": "673eea5cca48c9dcd2da2de3147024df38d089682f24f9bb2ad93681b5b24e48",
       "firstSeenAt": "2026-11-17T22:27:37.679Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -151,7 +418,7 @@
       "source": "fxembed",
       "fingerprint": "4b1934bc2196b4f1488ad26097cfbc485655202e82ad659daab997a795779c5d",
       "firstSeenAt": "2026-11-17T22:27:37.679Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -168,7 +435,7 @@
       "source": "fxembed",
       "fingerprint": "7615d9983acc093993d5b7f6836de94c9972510acd4e0394123d419d0075b370",
       "firstSeenAt": "2026-11-17T22:27:37.679Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -185,7 +452,7 @@
       "source": "fxembed",
       "fingerprint": "0166d6be876db1c1311e7aed39736a49f4bd6e4c150819b18e5d076261994b28",
       "firstSeenAt": "2026-11-17T22:27:37.679Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -214,7 +481,7 @@
       "source": "fxembed",
       "fingerprint": "1fb75538e195f0031b44984ae4e8631c765f72140d352d1d35e51e1f64e6fcd9",
       "firstSeenAt": "2026-11-17T22:27:37.679Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -231,7 +498,7 @@
       "source": "fxembed",
       "fingerprint": "b393c4378687ca1cc736240be5fb61ca95c6e1fc34b1a86dc014f84e554de6ba",
       "firstSeenAt": "2026-11-17T13:32:50.715Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -248,7 +515,7 @@
       "source": "fxembed",
       "fingerprint": "f9aefe40f6489147a96850ec5f16dd8f23877d90b2c8c9e351d857e9c2951b80",
       "firstSeenAt": "2026-11-17T13:32:50.715Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -265,7 +532,7 @@
       "source": "fxembed",
       "fingerprint": "92c8b3cf980ac3426a224b1f185248f4bc1c67efe81fd61343818cdada8bfd9c",
       "firstSeenAt": "2026-11-15T09:31:33.090Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -282,7 +549,7 @@
       "source": "fxembed",
       "fingerprint": "64ecc2194b9807f2489771fed6fc53e15aac21d0759d5bb1db304cf4e07e048c",
       "firstSeenAt": "2026-11-14T02:28:48.417Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -299,7 +566,7 @@
       "source": "fxembed",
       "fingerprint": "331096f7f42bfd14deed03dd9f587917677bff03e618930236847257819ccef4",
       "firstSeenAt": "2026-11-13T06:53:15.593Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -316,7 +583,7 @@
       "source": "fxembed",
       "fingerprint": "b7679d118288142be9d9c8290d1655b0ba0da311546ebd810f64b0de5a5e444e",
       "firstSeenAt": "2026-11-13T06:53:15.593Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -333,7 +600,7 @@
       "source": "fxembed",
       "fingerprint": "43fbc5d55d0f6247cb5a8d6d421a82f6ae6f7316af30c550e9d9007593d76133",
       "firstSeenAt": "2026-11-13T06:53:15.593Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -350,7 +617,7 @@
       "source": "fxembed",
       "fingerprint": "c0c6ce183fe4a6471dcf6c98b28bf38b5ddf0bfdb236386cd76618e61afe1256",
       "firstSeenAt": "2026-11-13T06:53:15.593Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -379,7 +646,7 @@
       "source": "fxembed",
       "fingerprint": "6117aff89437145ca9900db64d201a545d5878ce5f274087b0014a3605aaa7c3",
       "firstSeenAt": "2026-11-12T23:41:16.914Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -396,7 +663,7 @@
       "source": "fxembed",
       "fingerprint": "6710868b82df0a1c55742ba13c897e3cf483828ce2739b4300f0dee38b13d851",
       "firstSeenAt": "2026-11-12T00:47:55.184Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -413,7 +680,7 @@
       "source": "fxembed",
       "fingerprint": "6cacbc26489af040549984261b1e59afc7028ebbc60adf1abbb6d4bc05d528f9",
       "firstSeenAt": "2026-11-11T09:30:35.078Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -430,7 +697,7 @@
       "source": "fxembed",
       "fingerprint": "6814c5b28bd4cd8e131f06b12be68616ceee17315c0bb58ddddac034c721543c",
       "firstSeenAt": "2026-11-11T09:30:35.078Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -447,7 +714,7 @@
       "source": "fxembed",
       "fingerprint": "03b52ed671b9e80e3bcb3bfa8c3159ea53dc364a088d120365c00192640a5175",
       "firstSeenAt": "2026-11-11T09:30:35.078Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -464,7 +731,7 @@
       "source": "fxembed",
       "fingerprint": "09056611ad10a220f3e7033e221caed85b97c5f6b15097b72529ddbf65eec5df",
       "firstSeenAt": "2026-11-11T09:30:35.078Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -481,7 +748,7 @@
       "source": "fxembed",
       "fingerprint": "419299b6fffd445a4bdafc739a74c35636b7bcdd76030ba602a2041f53c897e7",
       "firstSeenAt": "2026-11-11T09:30:35.078Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -510,7 +777,7 @@
       "source": "fxembed",
       "fingerprint": "9f95f7e74cc47a48f7048ac7351f2fa5b19b9da85c210a29756a858792643fa3",
       "firstSeenAt": "2026-11-11T09:30:35.078Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -539,7 +806,7 @@
       "source": "fxembed",
       "fingerprint": "b5e9e86b297b5b439fcebf245340e01d22cb461bfb33d2c930623a83ca11d028",
       "firstSeenAt": "2026-11-11T09:30:35.078Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -568,7 +835,7 @@
       "source": "fxembed",
       "fingerprint": "c356ec0b56426df4e3a86b331e0a0ef9b51f3538653d5400183dcb16278583d6",
       "firstSeenAt": "2026-11-10T13:32:06.573Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -585,7 +852,7 @@
       "source": "fxembed",
       "fingerprint": "07eca61859dcb678ece7f435204eb1f3cfef29eb1db5dc6e6054c7c0a62eb9e7",
       "firstSeenAt": "2026-11-10T13:32:06.573Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -602,7 +869,7 @@
       "source": "fxembed",
       "fingerprint": "ef60d4ddc915e185913a9ac8b9afe3f92d21050f0d3a577b12661a10fdf2ebd2",
       "firstSeenAt": "2026-11-09T02:42:43.433Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -619,7 +886,7 @@
       "source": "fxembed",
       "fingerprint": "9bb67734f0431c4ba62d59ef96312041ea2400313f28aaa5255d33eed7ec5167",
       "firstSeenAt": "2026-11-09T02:42:43.433Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -636,7 +903,7 @@
       "source": "fxembed",
       "fingerprint": "50d191a15ca1939c89a1ed4c5e1f64b8a5ed470029d259a0c0e409ff26fa915d",
       "firstSeenAt": "2026-11-09T02:42:43.433Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -653,7 +920,7 @@
       "source": "fxembed",
       "fingerprint": "ea4ab34f4fd3c4c60904e53cd18d0cbb78b43a27eae0510d1fc64954ea9a7ac7",
       "firstSeenAt": "2026-11-08T06:11:41.112Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -670,7 +937,7 @@
       "source": "fxembed",
       "fingerprint": "dec33cbc0f719e26b36dcfdffa6814f371152010d263f196c57f5c278c91eb0c",
       "firstSeenAt": "2026-11-08T06:11:41.112Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -687,7 +954,7 @@
       "source": "fxembed",
       "fingerprint": "30414a68ea3f241a244e72b56085748004ff4e609b1c909faf03dc76a3b41069",
       "firstSeenAt": "2026-11-08T06:11:41.112Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -716,7 +983,7 @@
       "source": "fxembed",
       "fingerprint": "5de1fc13c14e2354f0cad77439ec9fe984da62fc5c12b56ecfbe2627a837c987",
       "firstSeenAt": "2026-11-08T06:11:41.112Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -733,7 +1000,7 @@
       "source": "fxembed",
       "fingerprint": "b7189857b6733b06bceecdc0d06e710a43a3d7489533ac7c26724a0b7d4d50e1",
       "firstSeenAt": "2026-11-08T06:11:41.112Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -750,7 +1017,7 @@
       "source": "fxembed",
       "fingerprint": "f641b6cc54a399676be266c9137b8d22b033b3de6262898b023ebf53b9adc289",
       "firstSeenAt": "2026-11-08T06:11:41.112Z",
-      "lastSeenAt": "2026-11-18T04:28:59.948Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -767,7 +1034,7 @@
       "source": "fxembed",
       "fingerprint": "e57b19033b2a02f8b72a6cda59af7f7c6b97382160aeadc8da63d649ffe0eaba",
       "firstSeenAt": "2026-11-08T06:11:41.112Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -784,7 +1051,7 @@
       "source": "fxembed",
       "fingerprint": "b9ee1b5ab34ce5ff6af13b9e0988ef9d1ce2b8a794664793526b626371ddc5bf",
       "firstSeenAt": "2026-11-08T06:11:41.112Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -801,7 +1068,7 @@
       "source": "fxembed",
       "fingerprint": "5420ad4a818fcb0e1c7326d49b55bb55950d0297914bcde01659612d4500582f",
       "firstSeenAt": "2026-11-08T06:11:41.112Z",
-      "lastSeenAt": "2026-11-17T22:27:37.679Z",
+      "lastSeenAt": "2026-11-19T03:36:27.530Z",
       "editedAt": null
     },
     {
@@ -5958,14 +6225,14 @@
       "editedAt": null
     }
   ],
-  "cursor": "2122903687949688912",
-  "lastAttemptAt": "2026-11-18T22:02:05.454Z",
-  "lastSuccessAt": "2026-11-18T04:28:59.948Z",
-  "status": "error",
-  "error": "免费来源返回 HTTP 404",
+  "cursor": "2123179276199735535",
+  "lastAttemptAt": "2026-11-19T03:36:27.530Z",
+  "lastSuccessAt": "2026-11-19T03:36:27.530Z",
+  "status": "ok",
+  "error": null,
   "collection": {
-    "pages": 2,
-    "requests": 3,
-    "fetched": 40
+    "pages": 3,
+    "requests": 4,
+    "fetched": 58
   }
 }
