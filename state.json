@@ -6226,10 +6226,10 @@
     }
   ],
   "cursor": "2123179276199735535",
-  "lastAttemptAt": "2026-11-19T03:36:27.530Z",
+  "lastAttemptAt": "2026-11-19T13:21:32.011Z",
   "lastSuccessAt": "2026-11-19T03:36:27.530Z",
-  "status": "ok",
-  "error": null,
+  "status": "error",
+  "error": "免费来源返回 HTTP 404",
   "collection": {
     "pages": 3,
     "requests": 4,
