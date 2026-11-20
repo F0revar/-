@@ -6420,10 +6420,10 @@
     }
   ],
   "cursor": "2123612889416339762",
-  "lastAttemptAt": "2026-11-20T03:27:39.310Z",
+  "lastAttemptAt": "2026-11-20T13:01:35.719Z",
   "lastSuccessAt": "2026-11-20T03:27:39.310Z",
-  "status": "ok",
-  "error": null,
+  "status": "error",
+  "error": "免费来源返回 HTTP 404",
   "collection": {
     "pages": 3,
     "requests": 4,
