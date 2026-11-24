@@ -2,6 +2,74 @@
   "schemaVersion": 1,
   "posts": [
     {
+      "id": "2125299467691987445",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "Sign up for ChatGPT Business: https://t.co/2WH7P7Yx7L",
+      "createdAt": "2026-11-24T18:44:13.000Z",
+      "url": "https://x.com/thsottiaux/status/2125299467691987445",
+      "kind": "reply",
+      "replyToId": "2125299248782778588",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "51e4a05f560a21a06b77e125f7f4815869084010afe254223fa9113cae77f008",
+      "firstSeenAt": "2026-11-24T21:19:15.186Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
+      "editedAt": null
+    },
+    {
+      "id": "2125299436964479474",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "https://t.co/SY2X7f40c5",
+      "createdAt": "2026-11-24T18:44:06.000Z",
+      "url": "https://x.com/thsottiaux/status/2125299436964479474",
+      "kind": "reply",
+      "replyToId": "2125299248782778588",
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "deba642033dc8db157264b9c82e40c314dd347d37d15d071a6d0f5756da4e0e4",
+      "firstSeenAt": "2026-11-24T21:19:15.186Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
+      "editedAt": null
+    },
+    {
+      "id": "2125299248782778588",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
+      "createdAt": "2026-11-24T18:43:21.000Z",
+      "url": "https://x.com/thsottiaux/status/2125299248782778588",
+      "kind": "post",
+      "replyToId": null,
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "934f703691b0ad3de6bc9146fd7e20ae27b2a8ee122228f79a6e950c3e2d31d8",
+      "firstSeenAt": "2026-11-24T21:19:15.186Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
+      "editedAt": null
+    },
+    {
+      "id": "2125284868414394550",
+      "authorId": "1953337039510003712",
+      "handle": "thsottiaux",
+      "text": "Hi. We’re beginning to roll out the combined Chat and Work experience to a small group of Pro users to learn from feedback before we roll out more broadly. \n\nLet us know what you think and where we can improve!",
+      "createdAt": "2026-11-24T17:46:13.000Z",
+      "url": "https://x.com/thsottiaux/status/2125284868414394550",
+      "kind": "post",
+      "replyToId": null,
+      "quote": null,
+      "verified": true,
+      "source": "fxembed",
+      "fingerprint": "1ea88f84cc1e1d13027c5cff3ac07a69be95625e80370f0d4ed5bfcbebcb6319",
+      "firstSeenAt": "2026-11-24T21:19:15.186Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
+      "editedAt": null
+    },
+    {
       "id": "2125141302501417232",
       "authorId": "1953337039510003712",
       "handle": "thsottiaux",
@@ -27,7 +95,7 @@
       "source": "fxembed",
       "fingerprint": "d88976c0135f2240fad256cee2db39216e5ea1b7980847bfe4aeee174436d3cd",
       "firstSeenAt": "2026-11-24T11:01:57.882Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -56,7 +124,7 @@
       "source": "fxembed",
       "fingerprint": "07f2320b38ebe9c4cf3677f0cf582d04d3b741cbc843c7ad6308f32565f55ae1",
       "firstSeenAt": "2026-11-24T00:58:45.182Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -85,7 +153,7 @@
       "source": "fxembed",
       "fingerprint": "c854e91dc1cd0cf0ed00317dcf6661e8c8facedaef1fe27fcb551960812d3e7d",
       "firstSeenAt": "2026-11-24T00:58:45.182Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -102,7 +170,7 @@
       "source": "fxembed",
       "fingerprint": "565ee573e50a9934efc3a64be6ccec66aeb95685b7bf3ce5c49f1fb09eb448af",
       "firstSeenAt": "2026-11-24T00:58:45.182Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -131,7 +199,7 @@
       "source": "fxembed",
       "fingerprint": "e988a77866fb98d348b93c81909f8b1fb707fdc0394936456eb5ab70ff7b3ffc",
       "firstSeenAt": "2026-11-24T00:58:45.182Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -148,7 +216,7 @@
       "source": "fxembed",
       "fingerprint": "135a30511c86cdb4038fb52ab8bfb5841aba5c873b96b8bf023e43e905b9c9df",
       "firstSeenAt": "2026-11-24T00:58:45.182Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -165,7 +233,7 @@
       "source": "fxembed",
       "fingerprint": "cdd4ad001aa634198f1e61f5ebed845997e4572b2c801109bcaff97b6a0d0e3c",
       "firstSeenAt": "2026-11-24T00:58:45.182Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -194,7 +262,7 @@
       "source": "fxembed",
       "fingerprint": "a0fd515fe5dc90f94ed0c8a9a40c8191bf73a84872573ca04befd8043c966fd2",
       "firstSeenAt": "2026-11-22T06:59:02.292Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -211,7 +279,7 @@
       "source": "fxembed",
       "fingerprint": "16fc3be84c0451e3b14320a46c83d20f3969cda71649caa1cb32424842f70714",
       "firstSeenAt": "2026-11-22T06:59:02.292Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -228,7 +296,7 @@
       "source": "fxembed",
       "fingerprint": "0851c9d360481eacd6c9352d0616c40fa9cc2cefc79321b9ba027557f57c2b07",
       "firstSeenAt": "2026-11-21T11:15:25.729Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -245,7 +313,7 @@
       "source": "fxembed",
       "fingerprint": "bf68795c68c0e9027e09af15277d889fbe4484df443cc0622df804d8d10570c5",
       "firstSeenAt": "2026-11-21T11:15:25.729Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -262,7 +330,7 @@
       "source": "fxembed",
       "fingerprint": "2895ec8e1a7e2f353b4ccb2c7a856dfbe8d5a0c54ecc0e9b83819c4a3517f44c",
       "firstSeenAt": "2026-11-21T02:26:11.458Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -279,7 +347,7 @@
       "source": "fxembed",
       "fingerprint": "8cbead710d872dd2245cb9ef5664a414679150d0ecce48e43bc83c5444bf1ae8",
       "firstSeenAt": "2026-11-20T21:13:04.195Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -308,7 +376,7 @@
       "source": "fxembed",
       "fingerprint": "2d4d8a96c9c9e4347c38cd7b65d53a0ab4b5a3c8d2473f12ede4fb1384614723",
       "firstSeenAt": "2026-11-20T21:13:04.195Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -337,7 +405,7 @@
       "source": "fxembed",
       "fingerprint": "5a644f7d644c962bce57c325b3f1c52563ed58195b0e27295f7739ad2d2b0b7d",
       "firstSeenAt": "2026-11-20T21:13:04.195Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -354,7 +422,7 @@
       "source": "fxembed",
       "fingerprint": "fc3dfc8fb91df2f87f0a14a1aa876ca6f8eadbfd0ffcbb44736ebfbd210e369c",
       "firstSeenAt": "2026-11-20T21:13:04.195Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -371,7 +439,7 @@
       "source": "fxembed",
       "fingerprint": "7ffb614e4447e2cc3b6c8c6aca990d55e8efdafbb5ec8124b0282da6b1b68e13",
       "firstSeenAt": "2026-11-20T21:13:04.195Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -388,7 +456,7 @@
       "source": "fxembed",
       "fingerprint": "865e373d4df52495abb545eb4eeab0bd0ece6b1865194d02e0cdd66828a75592",
       "firstSeenAt": "2026-11-20T21:13:04.195Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -405,7 +473,7 @@
       "source": "fxembed",
       "fingerprint": "10ed7dd68a195721d3b8fe8940242873a0354a65bee2b9b421a5be651d055a99",
       "firstSeenAt": "2026-11-20T21:13:04.195Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -422,7 +490,7 @@
       "source": "fxembed",
       "fingerprint": "11134ef2447993f75aeefc72900d61108414d80a10cf30e4ab8c943b0b78c770",
       "firstSeenAt": "2026-11-20T21:13:04.195Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -439,7 +507,7 @@
       "source": "fxembed",
       "fingerprint": "2a98fe5f4de61c5bb2d112febb1f17f8e72c9bf2c8a95cf73cc88c36e22f41f7",
       "firstSeenAt": "2026-11-20T03:27:39.310Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -468,7 +536,7 @@
       "source": "fxembed",
       "fingerprint": "42adc143158dbc0e83fb751d9b8a93b227066cadb6759a68cf12f1864ce6c0d7",
       "firstSeenAt": "2026-11-20T03:27:39.310Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -497,7 +565,7 @@
       "source": "fxembed",
       "fingerprint": "923b487aa9f43115eb7857b1a7d7d9d8cdff56529c1fb0a9800030a6a3b4e2ec",
       "firstSeenAt": "2026-11-20T03:27:39.310Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -514,7 +582,7 @@
       "source": "fxembed",
       "fingerprint": "bcc5c27857a25abba34eaa0e2b4371ea03320525f0dccebab3ee24b8c393ca6e",
       "firstSeenAt": "2026-11-20T03:27:39.310Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -531,7 +599,7 @@
       "source": "fxembed",
       "fingerprint": "1793e5df5fbf00a007a738157e8e80d79fad6c845e109cf57ae5642158a8cec1",
       "firstSeenAt": "2026-11-19T22:12:59.607Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -565,7 +633,7 @@
       "source": "fxembed",
       "fingerprint": "24e2f28e1edd7f991abf86f84adc7c3e5f2421cbd195f5a1b1c4fee820054f10",
       "firstSeenAt": "2026-11-19T22:12:59.607Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -582,7 +650,7 @@
       "source": "fxembed",
       "fingerprint": "b0cfeb41fe7a13104cddfba1c94f66595543d5d0da205e1ce9baa63445065db3",
       "firstSeenAt": "2026-11-19T22:12:59.607Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -599,7 +667,7 @@
       "source": "fxembed",
       "fingerprint": "a37f3281626406845e1760f06ecaad1958fa2d8a104fe8109ac476a77514397c",
       "firstSeenAt": "2026-11-19T22:12:59.607Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -616,7 +684,7 @@
       "source": "fxembed",
       "fingerprint": "e821f66382096d288753e2d25b27badc6d8672e369a4fa8c1656e551b3cc495e",
       "firstSeenAt": "2026-11-19T03:36:27.530Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -645,7 +713,7 @@
       "source": "fxembed",
       "fingerprint": "e24302a6b77e66ed7613e024cb72e8a88d8b46387842f200dc5632c4dc04a862",
       "firstSeenAt": "2026-11-19T03:36:27.530Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -662,7 +730,7 @@
       "source": "fxembed",
       "fingerprint": "8f106c58a27cae4db6e6fdc303eface68cdb9ced945512f420f02cd7636fbd8a",
       "firstSeenAt": "2026-11-19T03:36:27.530Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -679,7 +747,7 @@
       "source": "fxembed",
       "fingerprint": "f67697a9b6e7bc2c7bee91967731cf6a33db8c16124c1454ef227429a4f70949",
       "firstSeenAt": "2026-11-19T03:36:27.530Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -696,7 +764,7 @@
       "source": "fxembed",
       "fingerprint": "b9d73be183b31a6ffe445904ddf245eef29d5aafc6ae0950cc56223e9c88c82a",
       "firstSeenAt": "2026-11-19T03:36:27.530Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -713,7 +781,7 @@
       "source": "fxembed",
       "fingerprint": "a65affcf26224160e152b36372e3e540980a9edd93a89c07e24e4ad73a63dba8",
       "firstSeenAt": "2026-11-19T03:36:27.530Z",
-      "lastSeenAt": "2026-11-24T11:01:57.882Z",
+      "lastSeenAt": "2026-11-24T21:19:15.186Z",
       "editedAt": null
     },
     {
@@ -6843,9 +6911,9 @@
       "editedAt": null
     }
   ],
-  "cursor": "2125141302501417232",
-  "lastAttemptAt": "2026-11-24T11:01:57.882Z",
-  "lastSuccessAt": "2026-11-24T11:01:57.882Z",
+  "cursor": "2125299467691987445",
+  "lastAttemptAt": "2026-11-24T21:19:15.186Z",
+  "lastSuccessAt": "2026-11-24T21:19:15.186Z",
   "status": "ok",
   "error": null,
   "collection": {
