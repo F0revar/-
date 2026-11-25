@@ -6963,10 +6963,10 @@
     }
   ],
   "cursor": "2125388306842255694",
-  "lastAttemptAt": "2026-11-25T04:55:19.598Z",
+  "lastAttemptAt": "2026-11-25T15:42:49.633Z",
   "lastSuccessAt": "2026-11-25T04:55:19.598Z",
-  "status": "ok",
-  "error": null,
+  "status": "error",
+  "error": "免费来源返回 HTTP 404",
   "collection": {
     "pages": 2,
     "requests": 3,
